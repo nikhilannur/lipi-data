@@ -1,0 +1,21 @@
+Lipi dictionary word lists
+==========================
+
+Files: ml_dict_words.bin (Malayalam words, typing suggestions), en_dict_words.txt (English words that are never
+autocorrected away), and the Malayalam Dictionary the app downloads on first open (lipi-dictionary-v1.db).
+Built by tools/dictionary/build.py in the Lipi source repository; the word lists are published in readable form
+in tools/dictionary/published/ and next to the dictionary download:
+https://lipi-fix.nikhilchappayil.workers.dev/v1/dictionary/ (ml_dict_words.txt, en_dict_words.txt, build.py,
+LICENSE.txt).
+
+These files are made available under the Open Database License 1.0 (ODbL):
+https://opendatacommons.org/licenses/odbl/1-0/ (full text: licenses/ODbL-1.0.txt). Any rights in individual
+contents of the database are licensed under the Database Contents License:
+https://opendatacommons.org/licenses/dbcl/1-0/
+
+They are adapted from (both ODbL 1.0, https://olam.in/open/):
+- Olam English-Malayalam dictionary by Kailash Nadh.
+- Datuk Malayalam-Malayalam dictionary by K. J. Joseph (Datuk), refined and published by Kailash Nadh.
+Changes: text normalised (old chillu letters), entries with broken characters removed, meanings ranked by how
+common they are and limited per word, long meanings shortened, the English-Malayalam list also read the other
+way (Malayalam word -> English words), and word lists made from the headwords.

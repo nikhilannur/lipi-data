@@ -1,0 +1,38 @@
+Lipi English word list
+======================
+
+File: en_words.bin (English words with frequencies and an offensive-word flag). Built by
+tools/build_lexicon/build_english.py in the Lipi source repository. (en_typos.txt next to it is Lipi's own
+list of common typos and is not covered by this notice.)
+
+This file is licensed under the Creative Commons Attribution-ShareAlike 4.0 International licence
+(CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/
+You may copy and adapt it for any purpose, including commercially, if you give credit and share your
+adapted versions of this file under the same licence. This licence covers only this word-list file, not
+the rest of the Lipi app.
+
+It is adapted from:
+
+1. FrequencyWords by Hermit Dave, English 2018 list (from OpenSubtitles), content licensed CC BY-SA 4.0.
+   https://github.com/hermitdave/FrequencyWords
+
+2. SCOWL / English Speller Database by Kevin Atkinson, used to keep only real words
+   (size 70, American and British spelling). https://github.com/en-wl/wordlist
+   Copyright 2000-2026 by Kevin Atkinson. Permission to use, copy, modify, distribute, and sell any part
+   of the English Speller Database (ESDB, previously known as SCOWLv2), or word lists created from it,
+   is hereby granted without fee, provided that the above copyright notice appears in all copies and
+   that both the above copyright notice and this notice appear in supporting documentation. Kevin
+   Atkinson makes no representations about the suitability of this database for any purpose. It is
+   provided "as is" without express or implied warranty. (Full notice: licenses/SCOWL.txt.)
+
+3. The offensive-word flags start from the English "List of Dirty, Naughty, Obscene, and Otherwise Bad
+   Words" by Shutterstock (LDNOOBW), CC BY 4.0:
+   https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words
+   Lipi changed it: multi-word phrases dropped, some words marked as normal (medical/news words), some
+   stems added.
+
+Changes made by Lipi: subtitle words kept only if SCOWL knows them (or a regular -s/-ed/-ing form of
+a SCOWL word), words seen fewer than 20 times dropped, contractions and a few app/place names added,
+capital letters restored for words like "I" and "India", frequencies rounded to a log scale, offensive
+words flagged (not removed).
+This file is provided "as is", without warranty of any kind.

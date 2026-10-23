@@ -1,0 +1,34 @@
+Lipi Malayalam word lists
+=========================
+
+Files: ml_words.bin (Malayalam words with frequencies), ml_spellings.bin (Manglish spellings of
+Malayalam words), ml_pairs.txt (the words that most often follow each word, for next-word
+suggestions) and ml_triples.txt (the words that most often follow each two words). Built by
+tools/build_lexicon/build_lexicon.py, build_pairs.py and build_triples.py in the Lipi source repository.
+
+These four files are licensed under the Creative Commons Attribution-ShareAlike 4.0 International
+licence (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/
+You may copy and adapt them for any purpose, including commercially, if you give credit and share
+your adapted versions of these files under the same licence. This licence covers only these word-list
+files, not the rest of the Lipi app.
+
+They are adapted from:
+
+1. The Dakshina dataset v1.0 by Google Research (Malayalam Wikipedia text and romanization lexicon),
+   CC BY-SA 4.0. https://github.com/google-research-datasets/dakshina
+   Roark, Wolf-Sonkin, Kirov, Mielke, Johny, Demirşahin and Hall (2020), "Processing South Asian
+   Languages Written in the Latin Script: the Dakshina Dataset", LREC 2020.
+   The Wikipedia text is © Wikipedia contributors, CC BY-SA.
+
+2. FrequencyWords by Hermit Dave, Malayalam 2018 list (from OpenSubtitles), content licensed
+   CC BY-SA 4.0. https://github.com/hermitdave/FrequencyWords
+
+Changes made by Lipi: words counted and merged (subtitle counts weighted to match the Wikipedia
+total, ×2), old-style chillu letters converted to atomic chillu, offensive words flagged (not removed), words seen
+fewer than ~11 times dropped, only the 200,000 most frequent kept; frequencies rounded to a log
+scale; Manglish spellings taken from the Dakshina training split only, lower-cased. ml_pairs.txt: word
+pairs counted in the Dakshina Wikipedia training sentences, the 3 most frequent next words (seen at least
+3 times) for the 20,000 most frequent words, offensive words left out. ml_triples.txt: the same for two-word
+starts (seen at least 3 times), most frequent first, cut at about 1 MB. Both leave out the sentences Lipi uses
+as test sets.
+These files are provided "as is", without warranty of any kind.

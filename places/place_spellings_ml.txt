@@ -606,7 +606,7 @@ aryannur	ആര്യന്നൂർ
 aryaparamba	ആര്യപ്പറമ്പ്
 aryavon	ആര്യവോൺ
 asamannoor	അശമന്നൂർ
-ashankaval	ആശാന്കവല
+ashankaval	ആശാൻകവല
 ashanpadi	ആശാൻപടി
 ashtamichira	അഷ്ടമിച്ചിറ
 ashtamudi	അഷ്ടമുടി
@@ -763,7 +763,7 @@ ayyankavu	അയ്യങ്കാവ്
 ayyankoickal	അയ്യൻകോയിക്കൽ
 ayyankol	അയ്യങ്കോൽ
 ayyankoyickal	അയ്യൻകോയിക്കൽ
-ayyankunnu	അയ്യന്കുന്ന്|അയ്യൻകുന്ന്
+ayyankunnu	അയ്യൻകുന്ന്
 ayyanthole	അയ്യന്തോൾ
 ayyappancoil	അയ്യപ്പൻകോവിൽ
 ayyappankave	അയ്യപ്പൻകാവ്
@@ -1633,7 +1633,7 @@ chiravalappil	ചിറവളപ്പിൽ
 chirayakom	ചിറയകം
 chirayil	ചിറയിൽ
 chirayilpadam	ചിറയിൽപാടം
-chirayinkeezhu	ചിറയിന്കീഴ്|ചിറയിൻകീഴ്
+chirayinkeezhu	ചിറയിൻകീഴ്
 chirayirambu	ചിറയിറമ്പ്
 chirayirampu	ചിറയിറമ്പ്
 chirekkadavu	ചിറേക്കടവ്
@@ -4624,7 +4624,7 @@ kunnathur	കുന്നത്തൂർ
 kunnav	കുന്നാവ്
 kunnicode	കുന്നിക്കോട്
 kunnilangadi	കുന്നിലങ്ങാടി
-kunninukizhakku	കുന്നിന്കിഴക്ക്
+kunninukizhakku	കുന്നിൻകിഴക്ക്
 kunnirikka	കുന്നിരിക്ക
 kunnissery	കുന്നിശ്ശേരി
 kunnonni	കുന്നോന്നി
@@ -5036,7 +5036,7 @@ malayattoor	മലയാറ്റൂർ
 malayil	മലയിൽ
 malayilthazham	മലയിൽത്താഴം
 malayinchi	മലയിഞ്ചി
-malayinkeezh	മലയിന്കീഴ്
+malayinkeezh	മലയിൻകീഴ്
 malayinkeezhu	മലയിൻകീഴ്
 malayithra	മലയിത്ര
 malaysia	മലേഷ്യ
@@ -5941,8 +5941,8 @@ mullangara	മുള്ളങ്ങര
 mullanikkadu	മുള്ളനിക്കാട്
 mullankallu	മുള്ളൻകല്ല്
 mullankolli	മുല്ലങ്കൊളി
-mullankolly	മുള്ളന്കൊല്ലി
-mullankunnu	മുള്ളന്കുന്ന്
+mullankolly	മുള്ളൻകൊല്ലി
+mullankunnu	മുള്ളൻകുന്ന്
 mullankuthy	മുള്ളൻകുത്തി
 mullankuzhy	മുള്ളൻകുഴി
 mullanpara	മുള്ളമ്പാറ
@@ -6549,7 +6549,7 @@ nettiyadu	നെറ്റിയാട്
 nettur	നെട്ടൂർ
 neyoor	നെയ്യൂർ
 neyyassery	നെയ്യശ്ശേരി
-neyyattinkara	നെയ്യാറ്റിന്കര|നെയ്യാറ്റിൻകര
+neyyattinkara	നെയ്യാറ്റിൻകര
 nhalil	ഞാലിൽ
 nhamanghat	ഞമനേങ്ങാട്
 nhangattiri	ഞാങ്ങാട്ടിരി
@@ -7189,7 +7189,7 @@ pandalam	പന്തളം
 pandallur	പന്തല്ലൂർ
 pandanad	പണ്ടനാട്|പാണ്ടനാട്
 pandanchira	പാണ്ടൻചിറ
-pandankary	പാണ്ടന്കരി
+pandankary	പാണ്ടൻകരി
 pandarakkad	പണ്ടാറക്കാട്
 pandavam	പാണ്ഡവം
 pandavarkalari	പാണ്ഡവർകളരി
@@ -7462,7 +7462,7 @@ pathinaramkandam	പതിനാറാംകണ്ടം
 pathinarilchira	പതിനാറിൽചിറ
 pathinattarayalam	പതിനെട്ടരയാളം
 pathinettumuri	പതിനെട്ടുമുറി
-pathinonnukandi	പതിനൊന്ന്കണ്ടി
+pathinonnukandi	പതിനൊന്ൻകണ്ടി
 pathippalam	പാതിപ്പാലം|പാത്തിപ്പാലം
 pathippally	പതിപ്പള്ളി
 pathirapally	പാതിരപ്പള്ളി
@@ -8159,7 +8159,7 @@ pothanikkad	പോത്താനിക്കോട്
 pothanoor	പോത്തനൂർ
 pothanpuram	പോത്തൻപുറം
 potheepadu	പൊതീപ്പാട്
-pothencode	പോത്തന്കോട്|പോത്തൻകോട്
+pothencode	പോത്തൻകോട്
 pothenpuram	പൊത്തൻപുറം
 pothinkandom	പോത്തിൻകണ്ടം
 pothrodu	പോത്രാട്

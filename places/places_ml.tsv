@@ -2,7 +2,7 @@
 # malayalam	english	kind	wikidata
 അംഗഡിമുഗർ	Angadimogar	ward	Q101205861
 അംഗഡിമൊഗറു	Angadimogaru	village	Q4761910
-അംഗോള	Angola	country	Q916
+അംഗോള	Angola	country or state	Q916
 അംബേദ്ക്കർ	Ambedkar	ward	Q101194501
 അംബേദ്കർ	Ambedkar	ward	Q101189976 Q101190143
 അംബേദ്കർഗ്രാമം	Ambedkargramam	ward	Q101194276
@@ -206,7 +206,7 @@
 അപ്പയ്ക്കൽ	Appackal	ward	Q101188570
 അപ്പിയത്ത്	Appiyath	ward	Q101199246
 അപ്ല	Apla	ward	Q101199230
-അഫ്ഗാനിസ്താൻ	Afghanistan	country	Q889
+അഫ്ഗാനിസ്താൻ	Afghanistan	country or state	Q889
 അബഹ	Abha	india/gulf/world	Q190948
 അബുദാബി	Abu Dhabi	india/gulf/world	Q1519
 അഭയഗിരി	Abhayagiri	post office	Q71530990
@@ -303,7 +303,6 @@
 അയ്യംങ്കോട്	Ayyamkode	ward	Q101197725
 അയ്യങ്കാവ്	Ayyankavu	ward	Q101206378
 അയ്യങ്കോൽ	Ayyankol	ward	Q101583395
-അയ്യന്കുന്ന്	Ayyankunnu|Ayyankunnu Gramapanchayat	grama panchayat	Q13110089
 അയ്യന്തോൾ	Ayyanthole	locality,ward	Q101429151 Q4831892
 അയ്യപ്പൻകാവ്	Ayyappankave|Ayyappankavu	village,ward	Q101194039 Q101194857 Q101194950 Q101199627 Q101205710 Q101429092 Q4831898
 അയ്യപ്പൻകുളം	Ayyappankulam	ward	Q101197317
@@ -316,7 +315,7 @@
 അയ്യാപുരം	Ayyapuram	village	Q4831902
 അയ്യോട്ടിച്ചിറ	Ayyottichira	ward	Q101200147
 അയ്യോത്ത്	Ayyoth	ward	Q101204377
-അയ്യൻകുന്ന്	Ayyankunnu	village	Q4831896
+അയ്യൻകുന്ന്	Ayyankunnu|Ayyankunnu Gramapanchayat	grama panchayat,village	Q13110089 Q4831896
 അയ്യൻകോയിക്കൽ	Ayyankoickal|Ayyankoyickal	ward	Q101145687 Q101189769
 അയ്യർകട്ടെ	Ayyarkatte	ward	Q101205897
 അയർകാട്ടുവയൽ	Ayarkattuvayal	ward	Q101190000
@@ -401,7 +400,7 @@
 അരുവിപ്പുറം	Aruvippuram	village	Q4802334
 അരുവിലാൻചൽ	Aruvilanchal	post office	Q71532926
 അരൂക്കുറ്റി	Arookutty|Arookutty Gramapanchayat|Arukutti	grama panchayat	Q2449457
-അരൂബ	Aruba	country	Q21203
+അരൂബ	Aruba	country or state	Q21203
 അരൂർ	Aroor|Aroor Gramapanchayat|Arur	grama panchayat,post office,ward	Q101198078 Q101200372 Q116599354 Q71531002
 അരൂർമുഴി	Aroormuzhi	ward	Q101195207
 അരോളി	Aroli	village,ward	Q101204390 Q3595402
@@ -475,20 +474,20 @@
 അഷ്ടമുടി	Ashtamudi	post office	Q71536302
 അസുർമാർക്കറ്റ്	Azhurmarket	post office	Q71537133
 അസ്മാബികോളേജ്	Asmabicollege	ward	Q101194969
-അസർബെയ്ജാൻ	Azerbaijan	country	Q227
+അസർബെയ്ജാൻ	Azerbaijan	country or state	Q227
 അഹമ്മദാബാദ്	Ahmedabad	india/gulf/world	Q1070
-അൻഡോറ	Andorra	country	Q228
+അൻഡോറ	Andorra	country or state	Q228
 അൻപ്രംബൽ	Anaprambal	village	Q4751587
 അർക്കന്നൂർ	Arkannur	post office	Q71535598
-അർജന്റീന	Argentina	country	Q414
+അർജന്റീന	Argentina	country or state	Q414
 അർണക്കൽ	Arnakal	post office	Q71532922
-അർമേനിയ	Armenia	country	Q399
+അർമേനിയ	Armenia	country or state	Q399
 അർളട്ക്ക	Arladka	ward	Q101206172
 അൽത്താരമൂട്	Altharamoodu	post office	Q71537118
 അൽപാറ	Alpara	post office	Q71532891
-അൽബേനിയ	Albania	country	Q222
-അൾജീറിയ	Algeria	country	Q262
-ആംധ്രപ്രദേശ്	Andhra Pradesh	country	Q67906082
+അൽബേനിയ	Albania	country or state	Q222
+അൾജീറിയ	Algeria	country or state	Q262
+ആംധ്രപ്രദേശ്	Andhra Pradesh	country or state	Q67906082
 ആക്കപറമ്പ്	Akkaarambu	ward	Q101193984
 ആക്കപ്പറമ്പ്	Akkapparamba	ward	Q101198351 Q101198469
 ആക്കളം	Akkalam	ward	Q101189838
@@ -586,7 +585,7 @@
 ആന്തട്ട	Anthatta	ward	Q101201855
 ആന്തിയൂർകുന്ന്	Andiyoorkunnu	post office,ward	Q101198126 Q71528107
 ആന്തൂർ	Andoor|Anthoor|Anthoor Nagarasabha	local body,ward	Q101583403 Q25588003
-ആന്ധ്രാപ്രദേശ്	Andhra Pradesh	country	Q1159
+ആന്ധ്രാപ്രദേശ്	Andhra Pradesh	country or state	Q1159
 ആപ്പാഞ്ചിറ	Appanchira	ward	Q101188756
 ആപ്പുഴ	Appuzha	ward	Q101188666
 ആമച്ചൽ	Amachal	post office	Q71537476
@@ -735,14 +734,14 @@
 ആവേൻകോട്ട	Avenkotta	ward	Q101200032
 ആവോലം	Avolam	ward	Q101200394
 ആവോലി	Avoly|Avoly Gramapanchayat	grama panchayat,post office	Q71531849 Q96372853
-ആശാന്കവല	Ashankaval	ward	Q101204505
 ആശാരിമുക്ക്	Assarimukku	ward	Q101190008
+ആശാൻകവല	Ashankaval	ward	Q101204505
 ആശാൻപടി	Ashanpadi	ward	Q101199811
 ആശുപത്രി	Aasupathri|Ashupathry|Asupathri	ward	Q101189244 Q101190010 Q101194812
 ആശുപത്രിപ്പടി	Ashupathrippadi	ward	Q101193338
 ആശ്രമം	Aasramam|Asramam	ward	Q101189877 Q101189932
 ആശ്വാസി	Aswasi	ward	Q101200600
-ആസാം	Assam	country	Q1164
+ആസാം	Assam	country or state	Q1164
 ആർക്കുപറമ്പ്	Arkkuparamba	post office	Q71528122
 ആർപ്പാംതോട്	Arpanthode	ward	Q101204832
 ആൽത്തറ	Althara	ward	Q101193451 Q101193543
@@ -751,7 +750,7 @@
 ആൽപ്പറ്റക്കുളമ്പ	Alpattakkulamba	ward	Q101198904
 ആൽപ്പാറ	Alpara|Alppara	ward	Q101190884 Q101191222
 ഇക്കനഗർ	Ikkanagar	ward	Q101190490
-ഇക്വഡോർ	Ecuador	country	Q736
+ഇക്വഡോർ	Ecuador	country or state	Q736
 ഇച്ചന്നൂർ	Ichannur	ward	Q101202054
 ഇച്ചിലംങ്കോഡ്	Ichilangod	ward	Q101205813
 ഇച്ചിലംപാടി	Ichilampady	village,ward	Q101205924 Q5986201
@@ -835,8 +834,8 @@
 ഇണ്ടനാട്	Indanadu	ward	Q101144422
 ഇത്തിക്കര	Ithikkara	village	Q6094600
 ഇത്തിത്താനം	Ithithanam	post office	Q71532420
-ഇന്തോനേഷ്യ	Indonesia	country	Q252
-ഇന്ത്യ	India	country	Q668
+ഇന്തോനേഷ്യ	Indonesia	country or state	Q252
+ഇന്ത്യ	India	country or state	Q668
 ഇന്ദിരഗിരി	Indiragiri	ward	Q101189274
 ഇന്ദിരാനഗർ	Indiranagar	ward	Q101190435
 ഇന്ദുമൂല	Indumoola	ward	Q101205774
@@ -907,10 +906,10 @@
 ഇരൂപ്പ	Erooppa	ward	Q101580802
 ഇരൂപ്പാറ	Iroopara	post office,village	Q6073401 Q71537182
 ഇറവങ്കര	Eravankara	post office	Q71534678
-ഇറാഖ്	Iraq	country	Q796
-ഇറാൻ	Iran	country	Q794
+ഇറാഖ്	Iraq	country or state	Q796
+ഇറാൻ	Iran	country or state	Q794
 ഇറുമ്പയം	Irumpayam	post office,ward	Q101188877 Q71534187
-ഇറ്റലി	Italy	country	Q38
+ഇറ്റലി	Italy	country or state	Q38
 ഇലംബ	Ilamba	post office	Q71537179
 ഇലകമൺ	Elakamon|Elakamon Gramapanchayat	grama panchayat,post office	Q13110450 Q71537167
 ഇലക്കാട്	Elakkad	post office	Q71529630
@@ -969,12 +968,12 @@
 ഇളയമൺ	Alayamon	village	Q4708912
 ഇളവട്ടം	Elavattom	post office	Q71537556
 ഇവര്ക്കല	Iverkala	village	Q6098734
-ഇസ്രയേൽ	Israel	country	Q801
-ഇസ്വാറ്റിനി	Eswatini	country	Q1050
+ഇസ്രയേൽ	Israel	country or state	Q801
+ഇസ്വാറ്റിനി	Eswatini	country or state	Q1050
 ഇൻഡസ്ട്രിയൽ	Industrial	ward	Q101194992 Q101580762
 ഈങ്ങയിൽപീടിക	Eengayil Peedika	ward	Q101582048
 ഈങ്ങാപ്പുഴ	Engappuzha|Engapuzha	village,ward	Q101202453 Q5377441
-ഈജിപ്റ്റ്	Egypt	country	Q79
+ഈജിപ്റ്റ്	Egypt	country or state	Q79
 ഈട്ടിച്ചുവട്	Ettichuvadu	ward	Q101144951
 ഈട്ടിത്തോപ്പ്	Eattithoppu	ward	Q101191080
 ഈട്ടിമൂട്	Ettimoodu	ward	Q101145728
@@ -994,8 +993,8 @@
 ഈറ്റക്കാട്	Eettakkadu	ward	Q101189571
 ഈസ്റ്റ്ഹിൽ	East Hill	ward	Q101429226
 ഈർപ്പോണ	Earpona	ward	Q101202475
-ഉക്രൈൻ	Ukraine	country	Q212
-ഉഗാണ്ട	Uganda	country	Q1036
+ഉക്രൈൻ	Ukraine	country or state	Q212
+ഉഗാണ്ട	Uganda	country or state	Q1036
 ഉഗ്രപുരം	Ugrappuram	ward	Q101198367
 ഉങ്ങുങ്ങൽ	Ungungal	ward	Q101199450
 ഉച്ചാരക്കടവ്	Ucharakkadavu	ward	Q101198572
@@ -1023,9 +1022,9 @@
 ഉതിമൂട്	Uthimoodu	post office,ward	Q101144937 Q71536169
 ഉതുക്കുമ്മൽ	Uthukkummal	ward	Q101205333
 ഉത്തമേശ്വരം	Uthameswaram	ward	Q101189226
-ഉത്തരാഖണ്ഡ്	Uttarakhand	country	Q1499
+ഉത്തരാഖണ്ഡ്	Uttarakhand	country or state	Q1499
 ഉത്തിമൂട്	Uthimoodu	village	Q7902710
-ഉത്തർപ്രദേശ്	Uttar Pradesh	country	Q1498
+ഉത്തർപ്രദേശ്	Uttar Pradesh	country or state	Q1498
 ഉത്രമേൽ	Uthramel	ward	Q101580497
 ഉദയംകുന്നു	Udayamkunnu	ward	Q101429237
 ഉദയംപേരൂർ	Udayamperoor|Udayamperoor Gramapanchayat	grama panchayat,town	Q20574390 Q7877007
@@ -1076,7 +1075,7 @@
 ഉരുളൻതണ്ണി	Urulanthanni	post office	Q71532288
 ഉരുവച്ചാൽ	Uruvachal	post office	Q71530547
 ഉറുകുന്ന്	Urukunnu	post office	Q71536164
-ഉറുഗ്വേ	Uruguay	country	Q77
+ഉറുഗ്വേ	Uruguay	country or state	Q77
 ഉറുപ്പുംകുറ്റി	Uruppumkutti	village	Q24934975
 ഉറുമി	Urumi	ward	Q101202369
 ഉറുമ്പുള്ള്	Urumbullu	ward	Q101190947
@@ -1106,7 +1105,7 @@
 ഉഴത്തിൽ	Uzhathil	ward	Q101143991
 ഉഴമലയ്ക്കൽ	Uzhamalackal|Uzhamalakkal|Uzhamalakkal Gramapanchayat	grama panchayat,village	Q13110554 Q7904936
 ഉഴവൂർ	Uzhavoor|Uzhavoor Gramapanchayat	grama panchayat,settlement	Q16134381 Q7904954
-ഉസ്ബെക്കിസ്ഥാൻ	Uzbekistan	country	Q265
+ഉസ്ബെക്കിസ്ഥാൻ	Uzbekistan	country or state	Q265
 ഉൂട്ടുകുളം	Oottukulam	ward	Q101143842
 ഉർദുർ	Urdur	post office	Q71528025
 ഉർമി	Urmi	ward	Q101205853
@@ -1222,7 +1221,7 @@
 എണ്ണപ്പാറ	Ennappara	ward	Q101206377
 എത്തായ്	Ethai	ward	Q101194342
 എത്തിത്തോപ്പ്	Ettithope	post office	Q71533044
-എത്യോപ്യ	Ethiopia	country	Q115
+എത്യോപ്യ	Ethiopia	country or state	Q115
 എനാടിമംഗലം	Enadimangalam	village	Q5375163
 എനാനല്ലൂർ	Enanalloor	post office,village	Q5375212 Q71531890
 എന്മകജെ	Enmakaje|Enmakaje Gramapanchayat	grama panchayat,ward	Q101206047 Q16135883
@@ -1261,7 +1260,7 @@
 എരിക്കുളം	Erikulam	post office,ward	Q101206390 Q71527498
 എരിഞ്ഞിപ്പടി	Erinjippadi	ward	Q101193461
 എരിഞ്ഞിലംകോട്	Erinchilamkodu	ward	Q101206439
-എരിട്രിയ	Eritrea	country	Q986
+എരിട്രിയ	Eritrea	country or state	Q986
 എരിപുരം	Eripuram	village,ward	Q101204112 Q5389544
 എരിമയൂർ	Erimayur|Erimayur Gramapanchayat	grama panchayat	Q5389075
 എരിയാൽ	Eriyal	ward	Q101206268
@@ -1374,7 +1373,7 @@
 എഴുവന്താനം	Ezhuvanthanam	ward	Q101190028
 എസ്റ്റേറ്റ്പടി	Estatepadi	ward	Q101199544
 എസ്റ്റേറ്റ്മുക്ക്	Estatemukku	ward	Q101201475
-എസ്റ്റോണിയ	Estonia	country	Q191
+എസ്റ്റോണിയ	Estonia	country or state	Q191
 എൻമകജെ	Enmakaje	village	Q5379098
 എൽതുരുത്ത്	Elthuruth	ward	Q101429147
 ഏക്കാട്ടൂർ	Ekkattoor	ward	Q101201669
@@ -1467,7 +1466,7 @@
 ഐലക്കര	Ayilakkara	ward	Q101198574
 ഐലാശ്ശേരി	Ilasseri	ward	Q101197462
 ഐസിഎച്ച്	Ich	ward	Q101188996
-ഐസ്ലാന്റ്	Iceland	country	Q189
+ഐസ്ലാന്റ്	Iceland	country or state	Q189
 ഒക്കൽ	Okkal|Okkal Gramapanchayat	grama panchayat	Q13110803
 ഒഞ്ചിയം	Onchiam|Onchiyam|Onchiyam Gramapanchayat	grama panchayat,post office,ward	Q101200278 Q16136150 Q71531422
 ഒടമല	Odamala	ward	Q101198507
@@ -1482,7 +1481,7 @@
 ഒടുമ്പ്ര	Odumbra	ward	Q101203487
 ഒടോമ്പറ്റ	Odompatta	ward	Q101197621
 ഒട്ടകത്തലമേട്	Ottakathalamedu	ward	Q101191280
-ഒഡീഷ	Odisha	country	Q22048
+ഒഡീഷ	Odisha	country or state	Q22048
 ഒതയോത്ത്	Othayoth	ward	Q101200490
 ഒതളൂർ	Othaloor	ward	Q101199984
 ഒതായി	Othayi	ward	Q101197686
@@ -1490,7 +1489,7 @@
 ഒതേര	Othara|Othera	village	Q7108554
 ഒദയമ്മാടം	Odayammadam	ward	Q101204330
 ഒന്നാംകുറ്റി	Onnamkutti	ward	Q101145885
-ഒമാൻ	Oman|oman	common spelling,country	Q842
+ഒമാൻ	Oman|oman	common spelling,country or state	Q842
 ഒമ്പത്കണ്ടം	Onpath Kandam	ward	Q101200516
 ഒമ്പത്തുങ്ങൽ	Ombathungal	ward	Q101194621
 ഒരപ്പന	Orappana	ward	Q101195197
@@ -1595,14 +1594,14 @@
 ഓലിക്കൽ	Olikal	ward	Q101144643
 ഓളാട്ട്	Olat	post office	Q71527814
 ഓഴലപാത്തി	Ozhalapathy	village	Q7116558
-ഓസ്ട്രിയ	Austria	country	Q40
-ഓസ്ട്രേലിയ	Australia	country	Q408
+ഓസ്ട്രിയ	Austria	country or state	Q40
+ഓസ്ട്രേലിയ	Australia	country or state	Q408
 ഓർക്കാട്ടേരി	Orkkatteri	village	Q267069
 ഓർക്കുളം	Orkkulam	ward	Q101206504
 ഓർവയൽ	Orvayal	ward	Q101189697
 ഔട്ട്പോസ്റ്റ്	Outpost	ward	Q101189950
 ഔർവാക്കോട്	Aurvacode	post office	Q71528125
-കംബോഡിയ	Cambodia	country	Q424
+കംബോഡിയ	Cambodia	country or state	Q424
 കംബ്ലാരി	Kamblari	ward	Q101583287
 കക്കംതോട്	Kakkamthodu	ward	Q101205736
 കക്കംവെള്ളി	Kakkamvelli	ward	Q101200525
@@ -2446,7 +2445,7 @@
 കാദനങ്ങാടി	Kadanangadi	ward	Q101199780
 കാനം	Kaanam|Kanam	village,ward	Q101190099 Q101190163 Q101204230 Q2323500
 കാനച്ചേരി	Kanachery	ward	Q101205040
-കാനഡ	Canada	country	Q16
+കാനഡ	Canada	country or state	Q16
 കാനത്തൂർ	Kanathoor|Kanathur	post office,ward	Q101206124 Q101429282 Q71527551
 കാനപ്രം	Kanapram	ward	Q101583288
 കാനാഞ്ചേരി	Kananchery	ward	Q101199528
@@ -2472,7 +2471,7 @@
 കാപ്പുമുഖം	Kappumugam	ward	Q101198609
 കാപ്പുമ്മൽ	Kappummal	ward	Q101205195
 കാപ്പ്	Kappu	ward	Q101198637
-കാമറൂൺ	Cameroon	country	Q1009
+കാമറൂൺ	Cameroon	country or state	Q1009
 കാമാക്ഷി	Kamakshy|Kamakshy Gramapanchayat	grama panchayat,post office,ward	Q101190968 Q13111161 Q71533101
 കാമിച്ചേരി	Kamicheri	ward	Q101200701
 കാമേത്ത്	Kameth	ward	Q101204900
@@ -2669,7 +2668,7 @@
 കിന്നിംഗാർ	Kinningar	post office,ward	Q101205787 Q71527616
 കിരാച്ചി	Kirachi	ward	Q101205402
 കിരാലൂർ	Kiraloor|Kiralur	village,ward	Q101193818 Q101202029 Q6414789
-കിരീബാസ്	Kiribati	country	Q710
+കിരീബാസ്	Kiribati	country or state	Q710
 കിലാക്കോത്ത്	Kilakkoth	post office	Q71526225
 കിലാലൂർ	Kilaloor	ward	Q101205049
 കിളികൊല്ലൂർ	Kilikollur	railway station,settlement	Q18126820 Q18126822
@@ -2729,7 +2728,7 @@
 കിഴുവൈപ്പൂർ	Keezhuvaipur	village	Q15235279
 കിഴൂർ	Kizhur	ward	Q101583044
 കിസുമം	Kissumam	ward	Q101144978
-കിർഗ്ഗിസ്ഥാൻ	Kyrgyzstan	country	Q813
+കിർഗ്ഗിസ്ഥാൻ	Kyrgyzstan	country or state	Q813
 കീകോഴൂർ	Keekozhur	post office,village	Q6382719 Q71535760
 കീക്കാങ്കോട്ട്	Keekkamkottu	ward	Q101206395
 കീക്കാൻ	Keekan	post office,ward	Q101206412 Q71527600
@@ -2952,10 +2951,10 @@
 കുന്നാത്തുപറമ്പ്	Kunnothuparamba|Kunnothuparamba Gramapanchayat	grama panchayat	Q13111322
 കുന്നാവ്	Kunnav	ward	Q101429233
 കുന്നിക്കോട്	Kunnicode	village	Q6444936
-കുന്നിന്കിഴക്ക്	Kunninukizhakku	ward	Q101204118
 കുന്നിരിക്ക	Kunnirikka	ward	Q101205496
 കുന്നിലങ്ങാടി	Kunnilangadi	village	Q6444938
 കുന്നിശ്ശേരി	Kunnissery	ward	Q101194644
+കുന്നിൻകിഴക്ക്	Kunninukizhakku	ward	Q101204118
 കുന്നുംകൈ	Kunnumkai	ward	Q101206627
 കുന്നുംപുറം	Kunnumpuram	village,ward	Q101190015 Q101193672 Q101198412 Q101199103 Q101199801 Q101429061 Q6444948
 കുന്നുംഭാഗം	Kunnumbhagam	ward	Q101190079 Q101190138
@@ -3058,7 +3057,7 @@
 കുരുവിലശ്ശേരി	Kuruvilassery	post office,ward	Q101195083 Q71533842
 കുരുവിളശ്ശേരി	Kuruvilassery	village	Q6447534
 കുര്യനാട്	Kurianad	post office,ward	Q101189130 Q71534319
-കുറകാവോ	Curaçao	country	Q25279
+കുറകാവോ	Curaçao	country or state	Q25279
 കുറക്കട	Kurakkada	post office	Q71537251
 കുറത്തിക്കാട്	Kurathikad|Kurathikadu|Kurattikkadu	village	Q15240819
 കുറത്തിപ്പാറ	Kurathippara	ward	Q101201220
@@ -3222,7 +3221,7 @@
 കുഴൂർ	Kuzhur|Kuzhur Gramapanchayat	grama panchayat,village,ward	Q101195059 Q13111390 Q6449220
 കുഴൽമന്ദം	Kuzhalmandam	settlement	Q6435229
 കുവൈത്ത്	kuwait	common spelling	
-കുവൈറ്റ്	Kuwait	country,india/gulf/world	Q817
+കുവൈറ്റ്	Kuwait	country or state,india/gulf/world	Q817
 കുവോട്	Koovode	ward	Q101581934
 കുസവൻവയൽ	Kusavanvayal	post office	Q71527125
 കൂക്കാനം	Kookkanam	ward	Q101204211
@@ -3341,12 +3340,12 @@
 കെട്ടുങ്ങൽ	Kettungal	ward	Q101194317
 കെണ്ടയൂർ	Kondayoor	ward	Q101193662
 കെദുംബാഡി	Kedumbady	ward	Q101205828
-കെനിയ	Kenya	country	Q114
+കെനിയ	Kenya	country or state	Q114
 കെയ്റോ	Cairo	india/gulf/world	Q85
 കെഴുവംകുളം	Kozhuvamkulam	village	Q6398582
 കേച്ചേരി	Kechery	village,ward	Q101193496 Q6382456
 കേരള	Kerala	ward	Q101197553
-കേരളം	Kerala	country	Q1186
+കേരളം	Kerala	country or state	Q1186
 കേരളപുരം	Keralapuram	village,ward	Q101143840 Q6393523
 കേരളശ്ശേരി	Keralasseri|Keralassery|Keralassery Gramapanchayat	grama panchayat,village	Q20577461 Q6393527
 കേരളാദിത്യപുരം	Keraladithyapuram	village	Q30325401
@@ -3551,7 +3550,7 @@
 കൊപ്പൽ	Koppal	ward	Q101206312
 കൊമരന്തി	Komaranthy	ward	Q101192292
 കൊമേരി	Kommeri	post office	Q71526239
-കൊമോറസ്	Comoros	country	Q970
+കൊമോറസ്	Comoros	country or state	Q970
 കൊമ്പംക്കല്ല്	Kombankallu	ward	Q101198542
 കൊമ്പങ്കേരി	Kombankery	ward	Q101144094
 കൊമ്പത്തുകടവ്	Kombathukadavu	post office,ward	Q101194819 Q71533800
@@ -3605,7 +3604,7 @@
 കൊല്ലായിൽ	Kollayil	post office	Q71536477
 കൊല്ലായ്ക്കൽ	Kollaickal|Kollaikkal	ward	Q101146061 Q101193969
 കൊല്ലോട്	Kollode	post office	Q71537632
-കൊളംബിയ	Colombia	country	Q739
+കൊളംബിയ	Colombia	country or state	Q739
 കൊളംബോ	Colombo	india/gulf/world	Q35381
 കൊളക്കാട്	Kolakkad|Kolakkadu	post office,ward	Q101199086 Q101201340 Q101201613 Q101205675 Q71530220 Q71531235
 കൊളഗപ്പാറ	Kolagapara	post office	Q71526235
@@ -3648,7 +3647,7 @@
 കൊവ്വപ്പുറം	Kovvappuram|Kovvapuram	ward	Q101204336 Q101583045
 കൊവ്വൽ	Kovval	village,ward	Q101204096 Q101206484 Q101582117 Q101583402 Q15240177
 കൊവ്വൽപള്ളി	Kovvalpalli	village	Q13111662
-കൊസോവ്	Kosovo	country	Q1246
+കൊസോവ്	Kosovo	country or state	Q1246
 കൊൽക്കത്ത	Kolkata	india/gulf/world	Q1348
 കോക്കല്ലൂർ	Kokkallur	post office,ward	Q101201289 Q71531231
 കോക്കാട്	Kokkad	post office	Q71536470
@@ -3890,13 +3889,13 @@
 കൌക്കാനപ്പെട്ടി	Kowkkanapetty	ward	Q101193464
 കൌന്തി	Kounthi|Kounthy	ward	Q101190712 Q101582632
 ക്ടാക്കുഴി	Kdakuzhy	ward	Q101189630
-ക്യൂബ	Cuba	country	Q241
-ക്രൊയേഷ്യ	Croatia	country	Q224
+ക്യൂബ	Cuba	country or state	Q241
+ക്രൊയേഷ്യ	Croatia	country or state	Q224
 ക്ലാപ്പന	Clappana	village	Q5125891
 ക്ലായിക്കോട്	Klayikkode	ward	Q101206506
 ക്ളാപ്പന	Clappana|Clappana Gramapanchayat	grama panchayat	Q13111747
 കർക്കിടകം	Karkkidakam	ward	Q101198741
-കർണാടക	Karnataka	country	Q1185
+കർണാടക	Karnataka	country or state	Q1185
 കർത്തവ്യം	Karthavyam	ward	Q101144788
 കർത്താൽ	Karthal	ward	Q101199243
 കർശനാട്	Karsanadu	ward	Q101190521
@@ -3915,29 +3914,29 @@
 കൽപ്പാലം	Kalppalam	ward	Q101197680
 കൽവത്തി	Kalvathy	ward	Q101429027
 കൾനാട്	Kalnad	village	Q6354125
-ഖത്തർ	Qatar|qatar	common spelling,country	Q846
+ഖത്തർ	Qatar|qatar	common spelling,country or state	Q846
 ഖന്നാനഗർ	Khannanagar	ward	Q101195147
-ഖസാഖ്സ്ഥാൻ	Kazakhstan	country	Q232
+ഖസാഖ്സ്ഥാൻ	Kazakhstan	country or state	Q232
 ഖാസിലേൻ	Khaziline	ward	Q101582145
 ഖോബാർ	khobar	common spelling	
 ഗങ്ങ്ടോക്ക്	Gangtok	india/gulf/world	Q186141
 ഗണേശമംഗലം	Ganesamangalam	ward	Q101194350
 ഗണേശവിലാസം	Ganeshavilasam	ward	Q101145754
 ഗത്സമനിപള്ളി	Gathsamani Pally	ward	Q101580788
-ഗയാന	Guyana	country	Q734
+ഗയാന	Guyana	country or state	Q734
 ഗവി	Gavi	post office,village,ward	Q101145108 Q5528054 Q71533057
-ഗാംബിയ	The Gambia	country	Q1005
+ഗാംബിയ	The Gambia	country or state	Q1005
 ഗാന്ധിആശ്രമം	Gandhi Ashramam	ward	Q101193892
 ഗാന്ധിക്കുന്നു	Gandhikkunnu	ward	Q101199256
 ഗാന്ധിനഗർ	Gandhinagar	ward	Q101190991 Q101191190 Q101195110 Q101583056
 ഗാന്ധിപുരം	Gandhipuram	ward	Q101189340
-ഗാബോൺ	Gabon	country	Q1000
+ഗാബോൺ	Gabon	country or state	Q1000
 ഗാസിയാബാദ്	Ghaziabad	india/gulf/world	Q207098
-ഗിനി	Guinea	country	Q1006
+ഗിനി	Guinea	country or state	Q1006
 ഗിരിദീപം	Girideepam	ward	Q101189883
 ഗിരിനഗർ	Girinagar	ward	Q101429079
 ഗുംട്ടിമുക്ക്	Gumttimukku	ward	Q101205063
-ഗുജറാത്ത്	Gujarat	country	Q1061
+ഗുജറാത്ത്	Gujarat	country or state	Q1061
 ഗുഡാർലെ	Gudarle	post office	Q71533069
 ഗുഡ്ഗാവ്	Gurgaon	india/gulf/world	Q238508
 ഗുഡ്ഡെകേരി	Guddekeri	ward	Q101205894
@@ -3956,27 +3955,27 @@
 ഗോതുരുത്ത്	Gothuruth	village,ward	Q101194958 Q5587903
 ഗോപാലപുരം	Gopalapuram	ward	Q101201773
 ഗോപാലപ്പേട്ട	Gopala Petta	ward	Q101582065
-ഗോവ	Goa	country,india/gulf/world	Q1171
+ഗോവ	Goa	country or state,india/gulf/world	Q1171
 ഗോവിന്ദപുരം	Govindapuram	post office,ward	Q101188600 Q101189266 Q71529648
 ഗോവിന്ദമുട്ടം	Govindamuttom	post office	Q71534701
 ഗോവിന്ദാപുരം	Govindapuram	village	Q5589900
 ഗോശാലിക്കുന്ന്	Gosalikkunnu	ward	Q101203423
 ഗോസാഡ	Gosada	ward	Q101205798
 ഗൌരീശ്വരം	Gowreeswaram	ward	Q101192294
-ഗ്രനേഡ	Grenada	country	Q769
+ഗ്രനേഡ	Grenada	country or state	Q769
 ഗ്രാമം	Gramam	post office,ward	Q101200145 Q101205718 Q71530680
 ഗ്രാമദീപം	Gramadeepam	ward	Q101190078
 ഗ്രാമറ്റം	Gramattom	ward	Q101189689
 ഗ്രാമല	Gramala	ward	Q101194222
 ഗ്രാമലക്ഷ്മി	Gramalakshmi	ward	Q101194891
 ഗ്രാമ്പി	Gramby	post office,ward	Q101191380 Q71533065
-ഗ്രീസ്	Greece	country	Q41
+ഗ്രീസ്	Greece	country or state	Q41
 ഗ്ലാസ്ഗോ	Glasgow	india/gulf/world	Q4093
 ഗ്ലെൻമേരി	Glenmary	post office,ward	Q101191316 Q71533061
-ഗ്വാട്ടിമാല	Guatemala	country	Q774
+ഗ്വാട്ടിമാല	Guatemala	country or state	Q774
 ഗൗരീശപട്ടം	Goureesapattom	post office	Q71537172
 ഗൾഫ്	gulf	common spelling	
-ഘാന	Ghana	country	Q117
+ഘാന	Ghana	country or state	Q117
 ചകിണിയാംതടം	Chakiniyamthadam	ward	Q101189513
 ചക്കകാനം	Chakkakanam	ward	Q101190640
 ചക്കമ്മാട്കുന്ന്	Chakkammadkunnu	ward	Q101197872
@@ -4237,9 +4236,8 @@
 ചിറമനങ്ങാട്	Chermanangad|Chiramanangad	village	Q5092021
 ചിറമനേങ്ങാട്	Chiramanengad	ward	Q101193702
 ചിറയകം	Chirayakom	post office	Q71531641
-ചിറയിന്കീഴ്	Chirayinkeezhu|Chirayinkeezhu Gramapanchayat	grama panchayat	Q13111961
 ചിറയിറമ്പ്	Chirayirambu|Chirayirampu	post office,ward	Q101144408 Q71536885
-ചിറയിൻകീഴ്	Chirayinkeezhu	railway station,taluk	Q20717380 Q5101869
+ചിറയിൻകീഴ്	Chirayinkeezhu|Chirayinkeezhu Gramapanchayat	grama panchayat,railway station,taluk	Q13111961 Q20717380 Q5101869
 ചിറയിൽ	Chirayil	post office	Q71528178
 ചിറയിൽപാടം	Chirayilpadam	ward	Q101580843
 ചിറയ്ക്കാക്കോട്	Chirakkakode	ward	Q101194018
@@ -4274,7 +4272,7 @@
 ചിലവിൽ	Chilavil	ward	Q101199612
 ചിലവ്	Chilavu	settlement	Q19457699
 ചിലാവു	Chilavu	post office	Q71532989
-ചിലി	Chile	country	Q298
+ചിലി	Chile	country or state	Q298
 ചീക്കനാൽ	Cheekkanal	ward	Q101144474
 ചീക്കാട്	Cheekkad	ward	Q101204533
 ചീക്കിലോട്	Cheekilode|Cheekkilode	post office,ward	Q101202324 Q71531038
@@ -4726,7 +4724,7 @@
 ചേർപ്പുങ്കൽ	Cherpunkal	ward	Q101189213 Q101189412
 ചേർപ്പ്	Cherpu	village,ward	Q101194522 Q5092245
 ചൈക്കോട്ടുകോണം	Chaikkottukonam	post office	Q71537520
-ചൈന	People's Republic of China	country	Q148
+ചൈന	People's Republic of China	country or state	Q148
 ചൊക്കന	Chokkana	post office,ward	Q101194614 Q71533726
 ചൊക്കനാട്	Chokkanad	ward	Q101190493 Q101206858
 ചൊക്കനാത്തപുരം	Chokkanathapuram	village	Q5104237
@@ -4771,14 +4769,14 @@
 ചോഴിയക്കോട്	Chozhiakode	post office	Q71535667
 ചൌക്ക	Chowka	ward	Q101195144
 ചർച്ച്	Church	ward	Q101192237 Q101194999
-ഛത്തീസ്ഗഢ്	Chhattisgarh	country	Q1168
-ഛാഡ്	Chad	country	Q657
+ഛത്തീസ്ഗഢ്	Chhattisgarh	country or state	Q1168
+ഛാഡ്	Chad	country or state	Q657
 ജനകീയമുക്ക്	Janakeeyamukku	ward	Q101200844
 ജനത	Janatha	ward	Q101192302 Q101194471
 ജനതാബസാർ	Janathabasar	ward	Q101199628
 ജനശക്തി	Janasakthi	ward	Q101145712 Q101194273
-ജപ്പാൻ	Japan	country	Q17
-ജമൈക്ക	Jamaica	country	Q766
+ജപ്പാൻ	Japan	country or state	Q17
+ജമൈക്ക	Jamaica	country or state	Q766
 ജയനഗർ	Jayanagar	ward	Q101205799
 ജയന്തി	Jayanthi	ward	Q101188917
 ജയ്ഗിരി	Jaigiri	ward	Q101189242
@@ -4792,7 +4790,7 @@
 ജാതിയേരി	Jathiyeri	ward	Q101200315
 ജാറത്തിങ്ങൽ	Jarathingal	ward	Q101199052
 ജിദ്ദ	Jeddah|jeddah|jidda	common spelling,india/gulf/world	Q374365
-ജിബൂട്ടി	Djibouti	country	Q977
+ജിബൂട്ടി	Djibouti	country or state	Q977
 ജിസാൻ	Jizan	india/gulf/world	Q27660
 ജുബൈൽ	Jubail	india/gulf/world	Q27430
 ജെറുശലേം	Jerusalem	ward	Q101193636
@@ -4801,10 +4799,10 @@
 ജോസെഗിരി	Josegiri	post office	Q71526979
 ജോസ്ഗിരി	Josegiri	settlement,ward	Q101190385 Q101204300 Q30588943
 ജോസ്പുരം	Josepuram	ward	Q101190917
-ജോർജ്ജിയ	Georgia	country	Q230
-ജോർദാൻ	Jordan	country	Q810
-ജർമ്മനി	Germany	country	Q183
-ഝാർഖണ്ഡ്	Jharkhand	country	Q1184
+ജോർജ്ജിയ	Georgia	country or state	Q230
+ജോർദാൻ	Jordan	country or state	Q810
+ജർമ്മനി	Germany	country or state	Q183
+ഝാർഖണ്ഡ്	Jharkhand	country or state	Q1184
 ഞക്കനാൽ	Njakkanal	post office	Q71534765
 ഞക്കുനിലം	Njakkunilam	post office,ward	Q101145418 Q71535983
 ഞണ്ടുകുളം	Njandukulam	ward	Q101189748
@@ -4832,8 +4830,8 @@
 ഞെരുവിശ്ശേരി	Njeruvissery	ward	Q101194559
 ഞെള്ളൂർ	Njellur	ward	Q101194677
 ടാണ	Tana	ward	Q101197519
-ടാൻസാനിയ	Tanzania	country	Q924
-ടുണീഷ്യ	Tunisia	country	Q948
+ടാൻസാനിയ	Tanzania	country or state	Q924
+ടുണീഷ്യ	Tunisia	country or state	Q948
 ടെംബിൾ	Temple	ward	Q101194996
 ടെമ്പിൾ	Temple	ward	Q101192256 Q101194389 Q101429278 Q101580829 Q101582007 Q101582062
 ടെഹ്റാൻ	Tehran	india/gulf/world	Q3616
@@ -4841,8 +4839,8 @@
 ടൈറ്റാനിയം	Titanium	post office	Q71537439
 ടൊറാന്റോ	Toronto	india/gulf/world	Q172
 ടോക്കിയോ	Tokyo	india/gulf/world	Q1490
-ടോഗോ	Togo	country	Q945
-ടോങ്ക	Tonga	country	Q678
+ടോഗോ	Togo	country or state	Q945
+ടോങ്ക	Tonga	country or state	Q678
 ടോൾ	Toll	ward	Q101188544
 ടൌൺ	Town	ward	Q101188979 Q101580462 Q101581926 Q101581964 Q101581999
 ടൌൺഹാൾ	Town Hall	ward	Q101582036
@@ -4857,10 +4855,10 @@
 ഡിമോക്ക്	Dymock	post office	Q71533014
 ഡിസ്പെൻസറി	Dispensary	ward	Q101195006 Q101200292 Q101204957
 ഡീപ്ഡീൻ	Deepdeen	ward	Q101191377
-ഡെന്മാർക്ക്	Denmark|Kingdom of Denmark	country	Q35 Q756617
+ഡെന്മാർക്ക്	Denmark|Kingdom of Denmark	country or state	Q35 Q756617
 ഡെറാഡൂൺ	Dehradun	india/gulf/world	Q199528
 ഡൈമുക്ക്	Dymock	ward	Q101191360
-ഡൊമനിക്ക	Dominica	country	Q784
+ഡൊമനിക്ക	Dominica	country or state	Q784
 ഡോർലാൻറ്	Dorland	ward	Q101191101
 ഡൽഹി	delhi	common spelling	
 ഢാക്ക	Dhaka	india/gulf/world	Q1354
@@ -4948,7 +4946,7 @@
 തന്നട	Thannada	ward	Q101205002
 തന്നിതോട്	Thannithode	ward	Q101206444
 തബൂക്ക്	Tabuk	india/gulf/world	Q244232
-തമിഴ്നാട്	Tamil Nadu	country	Q1445
+തമിഴ്നാട്	Tamil Nadu	country or state	Q1445
 തമ്പലക്കാട്	Thampalackadu	ward	Q101190223
 തമ്പലമണ്ണ	Thambalamanna	ward	Q101202380
 തമ്പലമന്ന	Thambalamanna	post office	Q71526655
@@ -5041,7 +5039,7 @@
 തവളാംകുന്ന്	Thavalam Kunnu	ward	Q101199563
 തവിഞ്ഞാൽ	Thavinhal|Thavinhal Gramapanchayat	grama panchayat	Q16136938
 തവിടിശ്ശേരി	Thavidisseri	ward	Q101204284
-താജിക്കിസ്ഥാൻ	Tajikistan	country	Q863
+താജിക്കിസ്ഥാൻ	Tajikistan	country or state	Q863
 താണ	Thana	ward	Q101429276
 താണവീഥി	Thanaveethy	ward	Q101194281
 താണിക്കുടം	Thanikkudam|Thanikkutam|Thanikudam	village,ward	Q101194030 Q7710398
@@ -5250,15 +5248,15 @@
 തുള്ളൽ	Thullal	ward	Q101205679
 തുവയൂർ	Thuvayoor	ward	Q101145855
 തുവയൂർവടക്ക്	Thuvayoor North	ward	Q101145711
-തുവാലു	Tuvalu	country	Q672
+തുവാലു	Tuvalu	country or state	Q672
 തുവൂർ	Tuvvur	village	Q7857148
 തുവ്വക്കാട്	Thuvakkad	ward	Q101199584
 തുവ്വക്കോട്	Thuvvakkode	ward	Q101201609
 തുവ്വപ്പാറ	Thuvvappara	ward	Q101201660
 തുവ്വൂർ	Thuvvur|Tuvvur|Tuvvur Gramapanchayat|thuvvoor	grama panchayat,ward	Q101197792 Q13112567
 തുഷാരഗിരി	Thusharagiri	ward	Q101203382
-തുർക്കി	Turkey	country	Q43
-തുർക്മെനിസ്ഥാൻ	Turkmenistan	country	Q874
+തുർക്കി	Turkey	country or state	Q43
+തുർക്മെനിസ്ഥാൻ	Turkmenistan	country or state	Q874
 തൂക്കുപാലം	Thookkupalam|Thookupalam	settlement,ward	Q101190605 Q101190637 Q101190698 Q7795984
 തൂങ്ങുംപുറം	Thoongumpuram	ward	Q101583129
 തൂടയന്നൂർ	Thudayannoor	settlement	Q19678306
@@ -5379,7 +5377,7 @@
 തെരൂർ	Therur	ward	Q101205537
 തെറ്റീകുന്ന്	Thettikkunnu	ward	Q101581856
 തെറ്റുവഴി	Thettuvazhy	ward	Q101205766
-തെലങ്കാന	Telangana	country	Q677037
+തെലങ്കാന	Telangana	country or state	Q677037
 തെള്ളിയൂർ	Thelliyoor	post office,ward	Q101144429 Q71537076
 തെവേരി	Theveri	ward	Q101143999
 തെർതാലി	Therthally	post office	Q71527326
@@ -5518,10 +5516,10 @@
 ത്യക്കണാപുരം	Trikkanapuram	post office	Q71530931
 ത്യണയംകുടം	Thrinayamkudam	ward	Q101188580
 ത്രിക്കേൽ	Thrukkel	ward	Q101188971
-ത്രിപുര	Tripura	country	Q1363
+ത്രിപുര	Tripura	country or state	Q1363
 ത്രിവേണി	Thriveni	ward	Q101194364
 ത്രിശ്ശിലേരി	Thrissilery	village	Q7798267
-ദക്ഷിണാഫ്രിക്ക	South Africa	country	Q258
+ദക്ഷിണാഫ്രിക്ക	South Africa	country or state	Q258
 ദമാം	Dammam	india/gulf/world	Q160320
 ദമ്മാം	dammam	common spelling	
 ദളപതി	Dalapathy	ward	Q101193929
@@ -5628,7 +5626,7 @@
 നന്നമ്പ്ര	Nannambra|Nannambra Gramapanchayat	grama panchayat,post office	Q16134922 Q71530807
 നന്മണ്ട	Nanmanda|Nanminda|Nanminda Gramapanchayat	grama panchayat,village,ward	Q101202316 Q13112804 Q6963777
 നന്മേനി	Nenmeni	village	Q6991639
-നമീബിയ	Namibia	country	Q1030
+നമീബിയ	Namibia	country or state	Q1030
 നമ്പഴിക്കാട്	Nambazhikkad	ward	Q101193605
 നമ്പിക്കടവ്	Nambikkadavu	ward	Q101194372
 നമ്പിയാംകുന്ന്	Nambiyamkunnu	ward	Q101199775
@@ -5695,7 +5693,7 @@
 നാഗമ്പടം	Nagampadam|Nagampadom	settlement	Q124486215
 നാഗരൂർ	Nagaroor	village	Q15260767
 നാഗലശ്ശേരി	Nagalassery|Nagalassery Gramapanchayat|Nagalassery Gramapanchayath	grama panchayat,post office	Q6958393 Q71529310
-നാഗാലാൻഡ്	Nagaland	country	Q1599
+നാഗാലാൻഡ്	Nagaland	country or state	Q1599
 നാഗർകോവിൽ	Nagercoil	india/gulf/world	Q847606
 നാച്ചിവയൽ	Nachivayal	ward	Q101190457
 നാഞ്ഞൂറ	Nanhoora	ward	Q101200993
@@ -5747,7 +5745,7 @@
 നാൽക്കവല	Nalkkavala	ward	Q101190017
 നാൽക്കാലിക്കൽ	Nalkalikkal	ward	Q101146077
 നാൽപാത്തിമല	Nalpathimala	ward	Q101188984
-നിക്കരാഗ്വ	Nicaragua	country	Q811
+നിക്കരാഗ്വ	Nicaragua	country or state	Q811
 നിടിയാഞ്ഞിരം	Nidiyanjiram	ward	Q101583378
 നിടിയേങ്ങ	Nediyenga	ward	Q101583311
 നിടിയോടി	Nidiyodi	ward	Q101204748
@@ -5761,7 +5759,7 @@
 നിടുവാട്ട്	Niduvatt	ward	Q101204475
 നിടുവാലൂർ	Niduvaloor	ward	Q101204406
 നിട്ടൂർ	Nittoor	ward	Q101200636
-നിയുവെ	Niue	country	Q34020
+നിയുവെ	Niue	country or state	Q34020
 നിരണം	Niranam|Niranam Gramapanchayat	grama panchayat,village	Q12064156 Q16135616
 നിരന്തോട്	Niranthode	ward	Q101204729
 നിരന്നപറമ്പ്	Nirannaparambu	ward	Q101197703
@@ -5895,15 +5893,14 @@
 നെട്ടൂർ	Nettur|Nittoor	village,ward	Q101582025 Q14469982 Q7000612
 നെഡുങ്കോം	Nedungome	post office	Q71527201
 നെത്തല്ലൂർ	Nethalloor	ward	Q101189913 Q101190130
-നെതർലന്റ്സ്	Netherlands	country	Q55
+നെതർലന്റ്സ്	Netherlands	country or state	Q55
 നെന്മണിക്കര	Nenmanikkara|Nenmanikkara Gramapanchayat	grama panchayat,town,ward	Q101194634 Q13112973 Q720128
 നെന്മണൽക്കുടി	Nenmanalkudi	ward	Q101206991
 നെന്മാറ	Nemmara|Nenmara|Nenmara Gramapanchayat	grama panchayat,town	Q13112977 Q6991185
 നെന്മേനി	Nenmeni|Nenmeni Gramapanchayat|Nenmini	grama panchayat,post office,village	Q13112975 Q6991641 Q71529855
 നെയ്തക്കുടി	Naithakudy	ward	Q101195086
 നെയ്യശ്ശേരി	Neyyassery	post office,village,ward	Q101190831 Q7021498 Q71533357
-നെയ്യാറ്റിന്കര	Neyyattinkara|Neyyattinkara Nagarasabha	local body	Q16136256
-നെയ്യാറ്റിൻകര	Neyyattinkara	post office,railway station,taluk,town	Q15262230 Q15262231 Q2569280 Q64213007
+നെയ്യാറ്റിൻകര	Neyyattinkara|Neyyattinkara Nagarasabha	local body,post office,railway station,taluk,town	Q15262230 Q15262231 Q16136256 Q2569280 Q64213007
 നെയ്യൂർ	Neyoor	ward	Q101189479
 നെരവത്ത്	Neravath	ward	Q101198419 Q101201719
 നെരാട്കുന്ന്	Neradukunnu	ward	Q101203433
@@ -5966,15 +5963,15 @@
 നെൽപിണി	Nelpini	ward	Q101194964
 നേതാജി	Nethaji	ward	Q101192238 Q101194343 Q101199309 Q101580450 Q101581929
 നേതാജിപുരം	Nethajipuram	post office	Q71537322
-നേപ്പാൾ	Nepal	country	Q837
+നേപ്പാൾ	Nepal	country or state	Q837
 നേമം	Nemom|Thiruvananthapuram South	railway station,village	Q6991223 Q6991224
 നേരെകടവ്	Nerekadavu	ward	Q101188633
 നേരേകടവ്	Nerekadavu	ward	Q101189033
 നേര്യമംഗലം	Neriamangalam|Neryamangalam	post office,village	Q6996195 Q71532139
 നേഷണൽ	National	ward	Q101202318
 നേർച്ചപ്പാറ	Nerchappara	ward	Q101190180
-നൈജീരിയ	Nigeria	country	Q1033
-നൈജർ	Niger	country	Q1032
+നൈജീരിയ	Nigeria	country or state	Q1033
+നൈജർ	Niger	country or state	Q1032
 നൊങ്ങൽ	Nongal	ward	Q101189711
 നൊച്ചാട്	Nochad|Nochad Gramapanchayat	grama panchayat,ward	Q101200999 Q13113008
 നൊച്ചിപൊയിൽ	Nochipoyil	ward	Q101202809
@@ -5983,11 +5980,11 @@
 നൊട്ടിക്കണ്ടി	Nottikandy	ward	Q101200625
 നോയ്ഡ	Noida	india/gulf/world	Q278204
 നോല്ലിപ്പറമ്പ്	Nelliparambu	ward	Q101199258
-നോർവെ	Norway	country	Q20
+നോർവെ	Norway	country or state	Q20
 ന്യൂബസാർ	New Bazar	ward	Q101198495
 ന്യൂയോർക്ക്	New York	india/gulf/world	Q1384
-ന്യൂസീലൻഡ്	New Zealand	country	Q664
-നൗറു	Nauru	country	Q697
+ന്യൂസീലൻഡ്	New Zealand	country or state	Q664
+നൗറു	Nauru	country or state	Q697
 നർക്കിലക്കാട്	Narkilakkad	ward	Q101206617
 പകരനെല്ലൂർ	Pakaranellur	ward	Q101199077
 പകരപ്പിള്ളി	Pakarappilly	ward	Q101194808
@@ -6007,7 +6004,7 @@
 പച്ചിലമാക്കൽ	Pachilamakkal	ward	Q101189915
 പച്ചീരി	Pacheeri	ward	Q101198635
 പഞ്ചാംമൂല	Panchamoola	ward	Q101583307
-പഞ്ചാബ്	East Punjab|Punjab	country	Q22424 Q2354639
+പഞ്ചാബ്	East Punjab|Punjab	country or state	Q22424 Q2354639
 പഞ്ചായത്തങ്ങാടി	Panchayatanghadi	ward	Q101197417
 പഞ്ചായത്ത്	Panchayat|Panchayath	ward	Q101145389 Q101192178 Q101192226 Q101192279 Q101192291
 പഞ്ചാരമൂല	Pancharamoola	ward	Q101199629
@@ -6126,7 +6123,7 @@
 പതിനാറിൽചിറ	Pathinarilchira	ward	Q101580849
 പതിനെട്ടരയാളം	Pathinattarayalam	ward	Q101194975
 പതിനെട്ടുമുറി	Pathinettumuri	ward	Q101194913
-പതിനൊന്ന്കണ്ടി	Pathinonnukandi	ward	Q101201439
+പതിനൊന്ൻകണ്ടി	Pathinonnukandi	ward	Q101201439
 പതിപ്പള്ളി	Pathippally	post office,ward	Q101190951 Q71533434
 പതിമംഗലം	Pathimangalam	ward	Q101202801
 പതിയാംകുളങ്ങര	Pathiyamkulangara	ward	Q101194799
@@ -6213,7 +6210,7 @@
 പനവേലി	Panaveli|Panavely	post office,village	Q16137191 Q71536657
 പനവേലികുഴി	Panavelikuzhi	ward	Q101144823
 പനാട	Panada	ward	Q101200169
-പനാമ	Panama	country	Q804
+പനാമ	Panama	country or state	Q804
 പനായി	Panayi	ward	Q101201267
 പനോന്നേരി	Panonneri	ward	Q101204910
 പന്തക്കപ്പാറ	Panthakkappara	ward	Q101205197
@@ -6294,7 +6291,7 @@
 പയ്യേക്കണ്ടി	Payyekkandi	ward	Q101200679
 പയ്യോളി	Payyoli|Payyoli Nagarasabha	local body,railway station,town	Q16137491 Q20718100 Q3523165
 പരക്കോട്ടുപാടം	Parakkotupadam	ward	Q101193963
-പരഗ്വെ	Paraguay	country	Q733
+പരഗ്വെ	Paraguay	country or state	Q733
 പരതക്കാട്	Parathakkad	ward	Q101206900
 പരതപ്പൊയിൽ	Parathapoyil	ward	Q101203359
 പരന്നേക്കാട്	Parannekkad	ward	Q101199502
@@ -6388,7 +6385,7 @@
 പറാൽ	Paral	ward	Q101190070
 പലവയൽ	Palavayal	post office	Q71527233
 പലാട്ടുമുറി	Palattumury	ward	Q101193643
-പലാവു	Palau	country	Q695
+പലാവു	Palau	country or state	Q695
 പലേരി	Paleri	post office,ward	Q101204902 Q71531437
 പല്ലഞ്ചാത്തനൂർ	Pallanchathanur	post office	Q71529906
 പല്ലന	Pallana	post office,village	Q7127731 Q71534769
@@ -6516,7 +6513,7 @@
 പശുമല	Pasumala	ward	Q101191389
 പാംബ്ര	Pambra	post office	Q71526489
 പാകത്തുശ്ശേരി	Pakathussery	ward	Q101189862
-പാകിസ്താൻ	Pakistan	country	Q843
+പാകിസ്താൻ	Pakistan	country or state	Q843
 പാക്കം	Pakkam	ward	Q101206410
 പാക്കടപുറായ	Pakkadapuraya	ward	Q101199253
 പാക്കയിൽ	Pakkayil	ward	Q101581829
@@ -6566,7 +6563,6 @@
 പാണിൽ	Panil	ward	Q101146192
 പാണൂർ	Panoor	ward	Q101206122
 പാണ്ടനാട്	Pandanad|Pandanad Gramapanchayat	grama panchayat	Q16133802
-പാണ്ടന്കരി	Pandankary	village	Q7130495
 പാണ്ടി	Pandi	ward	Q101206160
 പാണ്ടികശാല	Pandikasala	ward	Q101199082 Q101199267 Q101581832
 പാണ്ടിക്കാട്	Pandikkad|Pandikkad Gramapanchayat	grama panchayat,village	Q16133807 Q7130640
@@ -6579,6 +6575,7 @@
 പാണ്ടിയാട്ട്	Pandiyatt	ward	Q101199558
 പാണ്ട്യാട്	Pandiyad	ward	Q101197678
 പാണ്ട്യാട്ടുപുറം	Pandiyattupuram	ward	Q101198110
+പാണ്ടൻകരി	Pandankary	village	Q7130495
 പാണ്ടൻചിറ	Pandanchira	ward	Q101190034
 പാണ്ഡവം	Pandavam	village,ward	Q101188932 Q28025347
 പാണ്ഡവർകളരി	Pandavarkalari	ward	Q101189895
@@ -7458,7 +7455,7 @@
 പെരുവില്ലി	Peruvilly	ward	Q101202482
 പെരുവെമ്പ	Peruvemba	village	Q7171136
 പെരുവെമ്പ്	Peruvemba|Peruvemba Gramapanchayat	grama panchayat	Q20581816
-പെറു	Peru	country	Q419
+പെറു	Peru	country or state	Q419
 പെറുവാലത്തുപറമ്പ	Peruvalathuparamba	post office	Q71527274
 പെലക്കാട്ടുപയ്യൂർ	Pelakkattupayyur	ward	Q101193481
 പെഴുംകാട്	Pezhumkadu	ward	Q101194835
@@ -7645,7 +7642,6 @@
 പോതമേട്	Pothamedu	post office,ward	Q101190413 Q71533468
 പോത്തടി	Pothadi	ward	Q101146050
 പോത്തനൂർ	Pothanoor	ward	Q101206959
-പോത്തന്കോട്	Pothencode|Pothencode Gramapanchayat	grama panchayat	Q16136579
 പോത്താനി	Pothani	ward	Q101194779
 പോത്താനിക്കാട്	Pothanicad|Pothanicad Gramapanchayat	grama panchayat	Q16136556
 പോത്താനിക്കോട്	Pothanikkad	village	Q7234891
@@ -7653,7 +7649,7 @@
 പോത്തുകല്ല്	Pothukallu|Pothukallu Gramapanchayat	grama panchayat,ward	Q101197478 Q13113507
 പോത്തുകുണ്ട്	Pothukundu	ward	Q101198749 Q101204519
 പോത്തുപാറ	Pothupara	ward	Q101190398
-പോത്തൻകോട്	Pothencode	settlement	Q7234897
+പോത്തൻകോട്	Pothencode|Pothencode Gramapanchayat	grama panchayat,settlement	Q16136579 Q7234897
 പോത്തൻപുറം	Pothanpuram	settlement	Q24945177
 പോത്രാട്	Pothrodu	ward	Q101580445
 പോന്നോർ	Ponnore	ward	Q101194238
@@ -7667,14 +7663,14 @@
 പോലൂർ	Poloor	ward	Q101202537
 പോളക്കൽ	Polakkal	ward	Q101194339
 പോളച്ചിറ	Polachira	post office,village,ward	Q101143797 Q71536711 Q7208847
-പോളണ്ട്	Poland	country	Q36
+പോളണ്ട്	Poland	country or state	Q36
 പോളയത്തോട്	Polayathode	locality	Q18389171
 പോളശ്ശേരി	Polasserry	ward	Q101580782
 പോളിടെക്നിക്ക്	Polytechnic	ward	Q101188668
 പോഴങ്കാവ്	Pozhamkavu	ward	Q101194951
 പോസ്റ്റോഫീസ്	Post Office	ward	Q101189747
 പോർങ്ങോട്ടൂർ	Porgottoor	ward	Q101583070
-പോർച്ചുഗൽ	Portugal	country	Q45
+പോർച്ചുഗൽ	Portugal	country or state	Q45
 പൌരബസാർ	Pourabazar	ward	Q101198123
 പ്പൂളപ്പൊയിൽ	Poolapoyil	ward	Q101583134
 പ്രകാശഗ്രാം	Prakashgram	ward	Q101190638
@@ -7712,17 +7708,17 @@
 ഫരീദാബാദ്	Faridabad	india/gulf/world	Q200663
 ഫറോക്ക്	Faroke|Farookabad|Feroke|Feroke Nagarasabha	local body,railway station,settlement,ward	Q101583170 Q13113570 Q1525568 Q20717348
 ഫാത്തിമാപുരം	Fathimapuram	post office	Q71532410
-ഫിജി	Fiji	country	Q712
-ഫിലിപ്പീൻസ്	Philippines	country	Q928
+ഫിജി	Fiji	country or state	Q712
+ഫിലിപ്പീൻസ്	Philippines	country or state	Q928
 ഫിഷറീസ്	Fisharies|Fisheries	ward	Q101194341 Q101194361 Q101194908
-ഫിൻലാന്റ്	Finland	country	Q33
+ഫിൻലാന്റ്	Finland	country or state	Q33
 ഫുജൈറ	fujairah	common spelling	
 ഫോക്കസ്	Focus	ward	Q101193340
-ഫ്രാൻസ്	France	country	Q142
+ഫ്രാൻസ്	France	country or state	Q142
 ബംഗാട്	Bangad	ward	Q101206405
 ബംഗ്രാമഞ്ചേശ്വർ	Bangramanjeshwar	settlement	Q638671
 ബംഗ്ലാംകുന്ന്	Banglamkunnu	ward	Q101199088 Q101199466
-ബംഗ്ലാദേശ്	Bangladesh	country	Q902
+ബംഗ്ലാദേശ്	Bangladesh	country or state	Q902
 ബംബ്രാണ	Bambrana	ward	Q101205912
 ബക്കളം	Bakkalam	ward	Q101583393
 ബങ്കണപ്പറമ്പ	Banganapparamba	ward	Q101205607
@@ -7744,7 +7740,7 @@
 ബന്പുതട്ക	Banputhadka	ward	Q101206037
 ബപ്പായിതോട്ടി	Bappaithotti	ward	Q101205823
 ബരിയപുറം	Biriyapuram	ward	Q101198428
-ബറുണ്ടി	Burundi	country	Q967
+ബറുണ്ടി	Burundi	country or state	Q967
 ബളക്ക	Balakka	ward	Q101206144
 ബളക്കല	Balakala	ward	Q101205794
 ബളവന്തടുക്ക	Balavanthadukka	ward	Q101206159
@@ -7752,8 +7748,8 @@
 ബള്ളൂർ	Ballur	ward	Q101206258
 ബസാർ	Bazar	ward	Q101189783
 ബസ്തി	Basthi	ward	Q101205782
-ബഹാമാസ്	The Bahamas	country	Q778
-ബഹ്റൈൻ	Bahrain|bahrain	common spelling,country	Q398
+ബഹാമാസ്	The Bahamas	country or state	Q778
+ബഹ്റൈൻ	Bahrain|bahrain	common spelling,country or state	Q398
 ബാംഗ്ലൂർ	bangalore|banglore	common spelling	
 ബാഗ്ദാദ്	Baghdad	india/gulf/world	Q1530
 ബാങ്കോക്ക്	Bangkok	india/gulf/world	Q1861
@@ -7787,7 +7783,7 @@
 ബിയൽറാം	B. L. Ram	ward	Q101190568
 ബിരിക്കുളം	Birikkulam	ward	Q101206638
 ബിസ്മിനഗർ	Bisminagar	ward	Q101583057
-ബിഹാർ	Bihar	country	Q1165
+ബിഹാർ	Bihar	country or state	Q1165
 ബിർമിങ്ഹാം	Birmingham	india/gulf/world	Q2256
 ബിർമ്മിനട്ക്ക	Birminadka	ward	Q101206096
 ബീംബുങ്കാൽ	Beembumgal	ward	Q101206220
@@ -7808,12 +7804,12 @@
 ബെദിര	Bedira	ward	Q101206232 Q101582131
 ബെദ്രഡ്ക	Bedradka	post office	Q71527426
 ബെദ്രമ്പള്ള	Bedrampalla	ward	Q101206033
-ബെനിൻ	Benin	country	Q962
+ബെനിൻ	Benin	country or state	Q962
 ബെയ്ജിങ്ങ്	Beijing	india/gulf/world	Q956
 ബെയർ	Bare	post office	Q71527419
 ബെരിപ്പദവ്	Beripadavu	post office,ward	Q101205970 Q71527439
-ബെലാറുസ്	Belarus	country	Q184
-ബെലീസ്	Belize	country	Q242
+ബെലാറുസ്	Belarus	country or state	Q184
+ബെലീസ്	Belize	country or state	Q242
 ബെല്ലുരു	Belluru	post office	Q71527434
 ബെളിഞ്ച	Belinja	ward	Q101205793
 ബെള്ളക്കാന	Bellakkana	ward	Q101206154
@@ -7822,7 +7818,7 @@
 ബെർലം	Berlam	ward	Q101206148
 ബെർലിൻ	Berlin	india/gulf/world	Q64
 ബെൽഗാം	Belgaum	india/gulf/world	Q270176
-ബെൽജിയം	Belgium	country	Q31
+ബെൽജിയം	Belgium	country or state	Q31
 ബേക്കൂർ	Bekoor|Bekur	post office,village,ward	Q101205809 Q4881660 Q71527430
 ബേക്കൽ	Bekal	ward	Q101206307 Q101206397
 ബേഡകം	Bedakam	village,ward	Q101206225 Q4878978
@@ -7843,35 +7839,35 @@
 ബൈസൺവാലി	Bisonvalley	post office,village,ward	Q101190378 Q4918381 Q71532938
 ബൊംബ്രാണ	Bombrana	post office,village	Q4940785 Q71527443
 ബൊഡ്ഡോഡി	Boddody	ward	Q101205833
-ബൊളീവിയ	Bolivia	country	Q750
+ബൊളീവിയ	Bolivia	country or state	Q750
 ബോംബെ	Bombay	india/gulf/world	Q3708546
 ബോട്ടുകടവ്	Boat Kadavu	ward	Q101194451
 ബോട്ടുജെട്ടി	Bottujetty	ward	Q101194502
 ബോട്ട്ജെട്ടി	Boat Jetty	ward	Q101580815
-ബോട്സ്വാന	Botswana	country	Q963
+ബോട്സ്വാന	Botswana	country or state	Q963
 ബോണാക്കോർഡ്	Bonaccord	post office	Q71537516
 ബോണാമി	Bonami	ward	Q101191355
 ബോയ്സ്	Boyce	ward	Q101191307
 ബോവിക്കാനം	Bovikanam	ward	Q101206129
-ബോസ്നിയ	Bosnia	country	Q188736
+ബോസ്നിയ	Bosnia	country or state	Q188736
 ബോർക്കള	Borkala	ward	Q101205838
 ബോൾഗാട്ടി	Bolghatty	ward	Q101192127
 ബൌണ്ടറി	Boundary	ward	Q101145000
-ബ്രസീൽ	Brazil	country	Q155
+ബ്രസീൽ	Brazil	country or state	Q155
 ബ്രഹ്മകുളം	Brahmakulam	ward	Q101194250
 ബ്രഹ്മപുരം	Brahmapuram	post office	Q71532699
 ബ്രഹ്മമംഗലം	Brahmamangalam	post office,ward	Q101188483 Q71534095
 ബ്രാലം	Bralam	ward	Q101194837
 ബ്രിസ്ബെൻ	Brisbane	india/gulf/world	Q34932
-ബ്രൂണൈ	Brunei	country	Q921
+ബ്രൂണൈ	Brunei	country or state	Q921
 ബ്ലാങ്ങാട്	Blangad	ward	Q101193324
 ബ്ലാത്തൂർ	Blathur	village,ward	Q101204740 Q4925515
 ബ്ലാൻഡേവാർ	Blandevar	village	Q4925000
 ബ്ലാൽ	Balal	village	Q4849894
 ബ്ലോക്ക്	Block	ward	Q101189870 Q101194986
 ബ്ലോക്ക്പടി	Blockpadi	ward	Q101144942
-ബർബാഡോസ്	Barbados	country	Q244
-ബൾഗേറിയ	Bulgaria	country	Q219
+ബർബാഡോസ്	Barbados	country or state	Q244
+ബൾഗേറിയ	Bulgaria	country or state	Q219
 ഭക്താനന്ദപുരം	Bhaktanandapuram	post office	Q71532696
 ഭഗവതികുന്ന്	Bhagawathikkunnu	ward	Q101144649
 ഭഗവതിനട	Bhagavathinada	post office	Q71537513
@@ -7883,7 +7879,7 @@
 ഭീമനടി	Bheemanady	post office,village,ward	Q101206598 Q4901640 Q71527442
 ഭീമനാട്	Bhimanad	post office	Q71528898
 ഭുവനേശ്വർ	Bhubaneswar	india/gulf/world	Q171771
-ഭൂട്ടാൻ	Bhutan	country	Q917
+ഭൂട്ടാൻ	Bhutan	country or state	Q917
 ഭൂതത്താൻകെട്ട്	Bhoothathankettu	post office	Q71531858
 ഭൂദാനം	Bhoodanam	ward	Q101197489
 ഭൂധനൂർ	Bhudhanoor	post office	Q71536876
@@ -7900,7 +7896,7 @@
 മംഗല്യ	Mangalya	ward	Q101192181
 മംഗളഗിരി	Mangalagiri	ward	Q101189574
 മംഗളൂരു	Mangaluru	india/gulf/world	Q127041
-മംഗോളിയ	Mongolia	country	Q711
+മംഗോളിയ	Mongolia	country or state	Q711
 മംഗൽപാടി	Mangalpady	village,ward	Q101205820 Q15244595
 മക്ക	Mecca	india/gulf/world	Q5806
 മക്കട	Makkada	post office,village	Q6739777 Q71526325
@@ -8011,7 +8007,7 @@
 മഠത്തുംപടി	Madathumpadi|Madathumpady	village,ward	Q101144805 Q6726538
 മഠത്തുംഭാഗം	Madathumbhagam	ward	Q101200851
 മഠത്തുംമൂഴി	Madathummoozhy	ward	Q101144970
-മഡഗാസ്കർ	Madagascar	country	Q1019
+മഡഗാസ്കർ	Madagascar	country or state	Q1019
 മഡിയൻ	Madiyan	ward	Q101206317
 മഡ്വ	Madva	ward	Q101205920
 മണക്കടവ്	Manakadavu|Manakkadave	post office,ward	Q101203476 Q101204536 Q71527148
@@ -8050,7 +8046,7 @@
 മണിപ്പാൽ	Manipal	india/gulf/world	Q3764792
 മണിപ്പുറം	Manipuram	post office	Q71526343
 മണിപ്പുഴ	Manippuzha	ward	Q101144107
-മണിപ്പൂർ	Manipur	country	Q1193
+മണിപ്പൂർ	Manipur	country or state	Q1193
 മണിമല	Manimala|Manimala Gramapanchayat	grama panchayat,ward	Q101190244 Q101200675 Q13564541
 മണിമുണ്ട	Mannimunda	ward	Q101205825
 മണിമുറി	Manimuri	ward	Q101190011
@@ -8155,7 +8151,7 @@
 മധുരപ്പാറ	Madhurappara	ward	Q101191180
 മധുരവേലി	Madhuraveli	ward	Q101188663
 മധൂർ	Madhur|Madhur Gramapanchayat	grama panchayat,post office,ward	Q101206240 Q16134778 Q71527708
-മധ്യപ്രദേശ്	Madhya Pradesh	country	Q1188
+മധ്യപ്രദേശ്	Madhya Pradesh	country or state	Q1188
 മനകുന്നം	Manakunnam	village	Q6746816
 മനക്കര	Manakkara	village	Q6746805
 മനക്കലപ്പടി	Manakkalappadi	ward	Q101194827
@@ -8304,8 +8300,7 @@
 മലയാലപ്പുഴ	Malayalappuzha|Malayalapuzha|Malayalapuzha Gramapanchayat	grama panchayat,village	Q13113915 Q6741587
 മലയിഞ്ചി	Malayinchi	post office,ward	Q101190774 Q71533216
 മലയിത്ര	Malayithra	ward	Q101144109
-മലയിന്കീഴ്	Malayinkeezh|Malayinkeezh Gramapanchayat	grama panchayat	Q16135599
-മലയിൻകീഴ്	Malayinkeezhu	village	Q6741664
+മലയിൻകീഴ്	Malayinkeezh|Malayinkeezh Gramapanchayat|Malayinkeezhu	grama panchayat,village	Q16135599 Q6741664
 മലയിൽ	Malayil	ward	Q101199054
 മലയിൽത്താഴം	Malayilthazham	ward	Q101583184
 മലയ്ക്കൽ	Malakkal	post office	Q71537259
@@ -8316,12 +8311,12 @@
 മലാങ്കടവ്	Malankadavu	ward	Q101206545
 മലാപ്പറമ്പ	Malaparamb	ward	Q101429162
 മലാപ്പാറ	Mlappara	village	Q6885675
-മലാവി	Malawi	country	Q1020
+മലാവി	Malawi	country or state	Q1020
 മലാൽ	Malal	ward	Q101205084
 മലേക്കീഴ്	Malekeezhu	ward	Q101144413
 മലേപ്പറന്പ്	Malepparambu	ward	Q101580894
 മലേശമംഗലം	Maleshamangalam	ward	Q101193971
-മലേഷ്യ	Malaysia	country	Q833
+മലേഷ്യ	Malaysia	country or state	Q833
 മലോൽകുന്ന്	Malolkunnu	ward	Q101200271
 മല്ല	Malla	post office	Q71527726
 മല്ലം	Mallam	ward	Q101206114
@@ -8353,7 +8348,7 @@
 മഹാത്മാഗാന്ധി	Mahatmagandhi	ward	Q101188505
 മഹാത്മാനഗർ	Mahatmanagar	ward	Q101194893
 മഹാദേവക്ഷേത്രം	Mahadevakshethram	ward	Q101580777
-മഹാരാഷ്ട്ര	Maharashtra	country	Q1191
+മഹാരാഷ്ട്ര	Maharashtra	country or state	Q1191
 മഹർഷിക്കാവ്	Maharshikavu	ward	Q101145701
 മഹർഷിമംഗലം	Maharshimangalam	ward	Q101145758
 മാകാട്ടിക്കവല	Makattikkavala	ward	Q101143799
@@ -8519,8 +8514,8 @@
 മാലക്കര	Malakkara	ward	Q101146069
 മാലക്കല്ല്	Malakallu	post office,ward	Q101206464 Q71527723
 മാലാപറമ്പ്	Malaparambu	ward	Q101198761
-മാലി	Mali	country,post office,ward	Q101191034 Q71533219 Q912
-മാലിദ്വീപ്	Maldives	country,india/gulf/world	Q826
+മാലി	Mali	country or state,post office,ward	Q101191034 Q71533219 Q912
+മാലിദ്വീപ്	Maldives	country or state,india/gulf/world	Q826
 മാലുമ്മേൽ	Malumel	village	Q6744961
 മാലൂർ	Maloor|Malur|Malur Gramapanchayat	grama panchayat,post office,ward	Q101205744 Q13114032 Q71535820
 മാലോം	Malom|Maloth	village,ward	Q101206353 Q6744483
@@ -8554,7 +8549,7 @@
 മാർക്കറ്റ്	Marcket|Market	ward	Q101189788 Q101189988 Q101192233 Q101194334 Q101580733
 മാർക്കറ്റ്ഈസ്റ്റ്	Market East	ward	Q101194985
 മാർത്തോമ	Marthoma	ward	Q101191201
-മാൾട്ട	Malta	country	Q233
+മാൾട്ട	Malta	country or state	Q233
 മിഞ്ചിപദവു	Minchipadavu	ward	Q101206140
 മിടാവിലോട്	Midavilode	ward	Q101204974
 മിടിയേരി	Midiyeri	ward	Q101200696
@@ -8564,7 +8559,7 @@
 മിനിഡാം	Minidam	ward	Q101191002
 മിയാപടവ്	Miyapadavu	post office	Q71527757
 മിഷൻവയൽ	Missionvayal	ward	Q101190522
-മിസോറം	Mizoram	country	Q1502
+മിസോറം	Mizoram	country or state	Q1502
 മീങ്കല്ല്	Meenkallu	ward	Q101199143
 മീഞ്ച	Meenja|Meenja Gramapanchayat	grama panchayat,village,ward	Q101205866 Q13114089 Q6807639
 മീഞ്ചന്ത	Meenchantha	ward	Q101429194
@@ -8885,8 +8880,6 @@
 മുളേക്കുന്ന്	Mulekkunnu	ward	Q101189699
 മുള്ളങ്ങര	Mullangara	ward	Q101194362
 മുള്ളനിക്കാട്	Mullanikkadu	ward	Q101144494
-മുള്ളന്കുന്ന്	Mullankunnu	ward	Q101200650
-മുള്ളന്കൊല്ലി	Mullankolly|Mullankolly Gramapanchayat	grama panchayat	Q16137318
 മുള്ളമ്പത്ത്	Mullambath	post office,ward	Q101200682 Q71531364
 മുള്ളമ്പാറ	Mullanpara	ward	Q101195180
 മുള്ളരിക്കുടി	Mullarikudy	post office,ward	Q101190356 Q71533314
@@ -8901,7 +8894,9 @@
 മുള്ളേരിയ	Mulleria	town	Q20164600
 മുള്ളൻകല്ല്	Mullankallu	ward	Q101145401
 മുള്ളൻകുത്തി	Mullankuthy	ward	Q101190761
+മുള്ളൻകുന്ന്	Mullankunnu	ward	Q101200650
 മുള്ളൻകുഴി	Mullankuzhy|Mullenkuzhy	ward	Q101190108 Q101580835
+മുള്ളൻകൊല്ലി	Mullankolly|Mullankolly Gramapanchayat	grama panchayat	Q16137318
 മുള്ളൻതണ്ട്	Mullanthandu	ward	Q101190558
 മുഴക്കുന്ന്	Muzhakkunnu|Muzhakkunnu Gramapanchayat	grama panchayat,village,ward	Q101205722 Q16137327 Q6944439
 മുഴക്കോം	Muzhakkom	ward	Q101206508
@@ -8990,7 +8985,7 @@
 മൂർഖൻകുണ്ട്	Moorkhankundu	ward	Q101202327
 മൂർച്ചിറ	Moorchira	ward	Q101206953
 മൂർപ്പാറ	Moorpara	ward	Q101194135
-മെക്സിക്കോ	Mexico	country	Q96
+മെക്സിക്കോ	Mexico	country or state	Q96
 മെട്ടമ്മൽ	Mettammal	village,ward	Q101206706 Q15253274
 മെഡിക്കൽകോളേജ്	Medical College	ward	Q101189039 Q101204203 Q101429174
 മെതുക്	Methuku	ward	Q101193829
@@ -9009,7 +9004,7 @@
 മേക്കുളമ്പ	Mekkulamba	ward	Q101198702
 മേക്കൊരവ	Mekkorava	ward	Q101197427
 മേക്കൊഴൂർ	Mekkozhoor	ward	Q101145383
-മേഘാലയ	Meghalaya	country	Q1195
+മേഘാലയ	Meghalaya	country or state	Q1195
 മേങ്ങോളിമാട്	Mengolimadu	ward	Q101199458
 മേച്ചരി	Mecheri	ward	Q101195507
 മേച്ചാൽ	Mechal	post office,ward	Q101189503 Q71534381
@@ -9092,7 +9087,7 @@
 മൈക്കാവ്	Maikave|Mykkavu	village,ward	Q101203391 Q6735633
 മൈക്കിൾഗിരി	Michaelgiri	post office,ward	Q101190460 Q71533280
 മൈക്കോളജി	Micology	ward	Q101190271
-മൈക്രോനേഷ്യ	Federated States of Micronesia	country	Q702
+മൈക്രോനേഷ്യ	Federated States of Micronesia	country or state	Q702
 മൈത്ര	Maithra	post office,ward	Q101198157 Q71528342
 മൈത്രി	Mythri	ward	Q101194403
 മൈനാക്കുളം	Mynakkulam	ward	Q101206813
@@ -9134,21 +9129,21 @@
 മൊടോളി	Modoli	ward	Q101205344
 മൊട്ടന്തറ	Mottanthara	ward	Q101201094
 മൊട്ടമ്മൽ	Mottammal	ward	Q101198837 Q101204371
-മൊണാക്കോ	Monaco	country	Q235
+മൊണാക്കോ	Monaco	country or state	Q235
 മൊണാസ്ട്രി	Monastry	ward	Q101580740
 മൊയിലോത്തറ	Moyilothara	ward	Q101200604
 മൊറയൂർ	Morayur|Morayur Gramapanchayat	grama panchayat,post office,ward	Q101198433 Q16137932 Q71528393
 മൊറഴ	Morazha	post office	Q71527164
 മൊറാഴ	Morazha	village,ward	Q101583389 Q15256169
-മൊറോക്കൊ	Morocco	country	Q1028
+മൊറോക്കൊ	Morocco	country or state	Q1028
 മൊളോളം	Mololam	ward	Q101204874
 മൊവ്വൽ	Movval	post office	Q71527770
-മൊസാംബിക്ക്	Mozambique	country	Q1029
-മൊൾഡോവ	Moldova	country	Q217
+മൊസാംബിക്ക്	Mozambique	country or state	Q1029
+മൊൾഡോവ	Moldova	country or state	Q217
 മോകവൂർ	Mokavur	ward	Q101429159
 മോങ്ങം	Mongam	village,ward	Q101198423 Q32454194
 മോച്ചേരി	Mocheri	ward	Q101205057
-മോണ്ടെനെഗ്രൊ	Montenegro	country	Q236
+മോണ്ടെനെഗ്രൊ	Montenegro	country or state	Q236
 മോതിരവയൽ	Mothiravayal	ward	Q101144841
 മോനിപ്പള്ളി	Monippally|Monippilly	village	Q6900312
 മോനൊടി	Monody	ward	Q101194616
@@ -9166,13 +9161,13 @@
 മൌവ്വഞ്ചേരി	Mowanchery	ward	Q101204966 Q101205031
 മൌവ്വേരി	Mouverry	ward	Q101205150
 മൌവ്വൽ	Mavval	ward	Q101206399
-മ്യാന്മാർ	Myanmar	country	Q836
+മ്യാന്മാർ	Myanmar	country or state	Q836
 മ്യൂസിയം	Muesium	ward	Q101193868
 മ്രാല	Mrala	post office,ward	Q101191207 Q71533294
 മ്ലാന്തടം	Mlanthadam	ward	Q101145279
 മൗണ്ട്കാർമൽ	Mount Carmel	ward	Q101580836
-മൗറിത്താനിയ	Mauritania	country	Q1025
-മൗറീഷ്യസ്	Mauritius	country	Q1027
+മൗറിത്താനിയ	Mauritania	country or state	Q1025
+മൗറീഷ്യസ്	Mauritius	country or state	Q1027
 മൺപിലാവ്	Manpilavu	ward	Q101145096
 മൺറോതുരുത്ത്	Mundrothuruth	village	Q6935890
 മൺറോത്തുരുത്ത്	Munroturuttu	railway station	Q18619273
@@ -9183,7 +9178,7 @@
 യാറംപടി	Yarampadi	ward	Q101198444
 യൂണിവേഴ്സിറ്റി	University	ward	Q101188981 Q101192273
 യൂനിവേഴ്സിറ്റി	University	ward	Q101199302
-യെമൻ	Yemen	country	Q805
+യെമൻ	Yemen	country or state	Q805
 യോർദ്ദനാപുരം	Yordhanapuram	post office	Q71532325
 രണ്ടത്താണി	Randathani	ward	Q101199029 Q101199513 Q101199749
 രണ്ടാംകടവ്	Randamkadavu	post office,ward	Q101205521 Q71530496
@@ -9207,7 +9202,7 @@
 രാജമലൈ	Rajamalai	ward	Q101190465
 രാജമുടി	Rajamudi|Rajamudy	post office,ward	Q101190929 Q101191384 Q71533510
 രാജരാജേശ്വര	Rajarajeswara	ward	Q101581911
-രാജസ്ഥാൻ	Rajasthan	country	Q1437
+രാജസ്ഥാൻ	Rajasthan	country or state	Q1437
 രാജാക്കണ്ടം	Rajakandom	ward	Q101191041
 രാജാക്കാട്	Rajakkad|Rajakkad Gramapanchayat	grama panchayat,village,ward	Q101190662 Q13114352 Q7285665
 രാപ്പാൾ	Rappal	ward	Q101194758
@@ -9233,7 +9228,7 @@
 രാവണീശ്വരം	Ravaneshwaram	post office,ward	Q101206314 Q71527944
 റബ്ബർബോർഡ്	Rubber Board	ward	Q101189796
 റയറോം	Rayarom	post office	Q71527298
-റഷ്യ	Russia	country	Q159
+റഷ്യ	Russia	country or state	Q159
 റസ്സൽപുരം	Russelpuram	post office	Q71537933
 റാഞ്ചി	Ranchi	india/gulf/world	Q174461
 റാണികോവിൽ	Ranikovil	ward	Q101191321
@@ -9241,8 +9236,8 @@
 റാന്നി	Ranni|Ranni Gramapanchayat|Ranni village	grama panchayat,taluk,village	Q13114405 Q3595244 Q7293397
 റിയാദ്	Riyadh	india/gulf/world	Q3692
 റിവർവ്യൂ	River View	ward	Q101580910
-റുവാണ്ട	Rwanda	country	Q1037
-റൊമാനിയ	Romania	country	Q218
+റുവാണ്ട	Rwanda	country or state	Q1037
+റൊമാനിയ	Romania	country or state	Q218
 റോം	Rome	india/gulf/world	Q220
 റോസ്മല	Rosemala	post office	Q71536092
 റോസ്സാപ്പൂക്കണ്ടം	Rossappookandam	ward	Q101191284
@@ -9250,28 +9245,28 @@
 ലക്കടൂർ	Lakkattoor	village	Q6479691
 ലക്കിടി	Lakkidi|Lakkiti	post office,railway station,village	Q20718021 Q6479707 Q71526305
 ലക്ഷ്മി	Lakshmi	ward	Q101190504
-ലക്സംബർഗ്	Luxembourg	country	Q32
+ലക്സംബർഗ്	Luxembourg	country or state	Q32
 ലഖ്നൗ	Lucknow	india/gulf/world	Q47916
 ലഡാക്ക്	Ladak	ward	Q101204529
 ലണ്ടൻ	London	india/gulf/world	Q84
 ലബ്ബക്കട	Labbakada	ward	Q101191064
 ലാക്കാർഡ്	Lockhart	ward	Q101206854
 ലാഡ്രം	Landrum	ward	Q101191319
-ലാത്വിയ	Latvia	country	Q211
+ലാത്വിയ	Latvia	country or state	Q211
 ലാലൂർ	Laloor	settlement,ward	Q101429148 Q6480571
-ലാവോസ്	Laos	country	Q819
+ലാവോസ്	Laos	country or state	Q819
 ലാഹായി	Lahai	village	Q6473113
 ലാഹോർ	Lahore	india/gulf/world	Q11739
-ലിക്റ്റൻസ്റ്റൈൻ	Liechtenstein	country	Q347
-ലിത്വാനിയ	Lithuania	country	Q37
-ലിബിയ	Libya	country	Q1016
+ലിക്റ്റൻസ്റ്റൈൻ	Liechtenstein	country or state	Q347
+ലിത്വാനിയ	Lithuania	country or state	Q37
+ലിബിയ	Libya	country or state	Q1016
 ലിസ്യു	Lissue	ward	Q101189005
 ലീഡ്സ്	Leeds	india/gulf/world	Q39121
 ലൂർദിപുരം	Lourdepuram	post office	Q71537693
-ലെബനാൻ	Lebanon	country	Q822
-ലെസോത്തോ	Lesotho	country	Q1013
+ലെബനാൻ	Lebanon	country or state	Q822
+ലെസോത്തോ	Lesotho	country or state	Q1013
 ലേബർസെൻറർ	Labour Center	ward	Q101194726
-ലൈബീരിയ	Liberia	country	Q1014
+ലൈബീരിയ	Liberia	country or state	Q1014
 ലൈറ്റ്ഹൌസ്	Light House	ward	Q101195004
 ലോൺട്രീ	Lonetree	post office,ward	Q101191024 Q71533209
 ളാക്കാട്ടൂർ	Lakkattoor	post office,ward	Q101189688 Q71532522
@@ -9403,7 +9398,7 @@
 വണ്ണാമട	Vannamada	post office	Q71530012
 വണ്ണായിക്കടവ്	Vannayikadavu	ward	Q101204644
 വണ്ണാർകണ്ടി	Vannarkandi	ward	Q101200413
-വത്തിക്കാൻ	Vatican	country	Q237
+വത്തിക്കാൻ	Vatican	country or state	Q237
 വന്ദേമാതരം	Vandematharam	ward	Q101189189
 വന്നല്ലൂർക്കര	Vannalloorkara	ward	Q101189768
 വന്നേരി	Vanneri	ward	Q101200100
@@ -9608,7 +9603,7 @@
 വാണിയമ്പലം	Vaniyambalam|palace of touristers	town,ward	Q101197828 Q7915040
 വാത്തിക്കുടി	Vathikudy|Vathikudy Gramapanchayat|Vathikudy Gramapanchayath	grama panchayat,ward	Q101190930 Q7917110
 വാനിക്കര	Vanikkara	ward	Q101202454
-വാനുവാടു	Vanuatu	country	Q686
+വാനുവാടു	Vanuatu	country or state	Q686
 വാപ്പറന്പ്	Vaparamb	ward	Q101195045
 വാപ്പാലശ്ശേരി	Vappalassery	post office	Q71532296
 വാമനപുരം	Vamanapuram|Vamanapuram Gramapanchayat	grama panchayat,village	Q13114631 Q7912914
@@ -9699,7 +9694,7 @@
 വിമലനഗർ	Vimala Nagar	village	Q7931262
 വിമലശ്ശേരി	Vimalasseri	ward	Q101204500
 വിമലാസിറ്റി	Vimalacity	ward	Q101190373
-വിയറ്റ്നാം	Vietnam|Viyatnam	country,ward	Q101205505 Q881
+വിയറ്റ്നാം	Vietnam|Viyatnam	country or state,ward	Q101205505 Q881
 വിയ്യഞ്ചിറ	Viyyanchira	ward	Q101200925
 വിയ്യൂർ	Viyyoor|Viyyur	locality,ward	Q101429102 Q101581843 Q7937984
 വിരിഞ്ഞപാറ	Virinjapara	ward	Q101190597
@@ -9855,7 +9850,7 @@
 വെണ്ണൂർ	Vennur	village	Q7920158
 വെണ്മണി	Venmani|Venmoney|Venmoney Gramapanchayat	grama panchayat,village	Q12989426 Q16137776
 വെത്തിലപ്പള്ളി	Vethilappali	ward	Q101429272
-വെനിസ്വേല	Venezuela	country	Q717
+വെനിസ്വേല	Venezuela	country or state	Q717
 വെന്തോടൻപടി	Venthodanpadi	ward	Q101197448
 വെന്നിക്കോട്	Vennicode	village	Q7920151
 വെന്നിമല	Vennimala	settlement	Q85812944
@@ -10135,7 +10130,7 @@
 ശ്രീപുഷ്കരം	Sreepushkaram	ward	Q101193927
 ശ്രീമുരുക	Sreemuruka	ward	Q101194941
 ശ്രീമൂല	Sreemoolanagaram|Sreemoolanagaram Gramapanchayat	grama panchayat	Q16134898
-ശ്രീലങ്ക	Sri Lanka	country	Q854
+ശ്രീലങ്ക	Sri Lanka	country or state	Q854
 ശ്രീവല്ലഭ	Sreevallabha	ward	Q101580495
 ശ്രീസ്ത	Sreestha	post office	Q71527302
 ശ്രീസ്ഥ	Sreestha	ward	Q101204088
@@ -10164,26 +10159,26 @@
 സന്യാസിയോട	Sanniyasioda	ward	Q101190611
 സബ്സ്റ്റേഷൻ	Substation	ward	Q101189253 Q101189703
 സമൂസപ്പടി	Samoosappadi	ward	Q101198652
-സമോവ	Samoa	country	Q683
+സമോവ	Samoa	country or state	Q683
 സലഫിനഗർ	Salafi Nagar	ward	Q101194890
 സലാല	Salalah	india/gulf/world	Q1294439
 സഹോദരഭവൻ	Sahodarabhavan	ward	Q101192288
 സാംനഗർ	Samnagar	post office	Q71536095
-സാംബിയ	Zambia	country	Q953
+സാംബിയ	Zambia	country or state	Q953
 സാന്താക്രുസ്	Santa Cruz	ward	Q101192267
 സാമൂഹ്യസേവാസംഘം	Samoohya Sevasangham	ward	Q101192297
 സായ	Saya	ward	Q101206004
 സാൽമിയ	Salmiya	india/gulf/world	Q3505782
-സിംഗപ്പൂർ	Singapore	country,india/gulf/world	Q334
+സിംഗപ്പൂർ	Singapore	country or state,india/gulf/world	Q334
 സിംഗുകണ്ടം	Singukandam	ward	Q101190569
-സിംബാബ്വെ	Zimbabwe	country	Q954
-സിക്കിം	Sikkim	country	Q1505
+സിംബാബ്വെ	Zimbabwe	country or state	Q954
+സിക്കിം	Sikkim	country or state	Q1505
 സിഡ്നി	Sydney	india/gulf/world	Q3130
 സിദ്ദീഖാബാദ്	Siddeequabad|Sidheekhabadu	ward	Q101199452 Q101204155
 സിദ്ധാശ്രമം	Sidhasramam	ward	Q101581805
 സിയാംകണ്ടം	Siyamkandam	ward	Q101197924
 സിരന്തടുക്ക	Siranthadka	ward	Q101205959
-സിറിയ	Syria	country	Q858
+സിറിയ	Syria	country or state	Q858
 സിവിൽേസ്റ്റഷൻ	Civilstation	ward	Q101581877
 സീതക്കുന്ന്	Seetha Mount	post office	Q71526635
 സീതക്കുഴി	Seethakuzhi	ward	Q101145120
@@ -10191,13 +10186,13 @@
 സീതാംഗോളി	Seethangoli	ward	Q101205855
 സീതാമൗണ്ട്	Seetha Mount	settlement	Q24951016
 സുഗന്ധഗിരി	Sugandhagiri	post office	Q71526647
-സുഡാൻ	Sudan	country	Q1049
+സുഡാൻ	Sudan	country or state	Q1049
 സുദംബള	Sudembala	ward	Q101205972
 സുന്നങ്കള	Sunnangala	ward	Q101205829
 സുബ്രഹ്മണ്യപുരം	Subramanyapuram	ward	Q101194539
 സുഭാഷ്	Subhash	ward	Q101146938
 സുരഭി	Surabhi	ward	Q101204948
-സുരിനാം	Suriname	country	Q730
+സുരിനാം	Suriname	country or state	Q730
 സുള്യമേ	Sullyame	ward	Q101205834
 സുവർണ്ണഗിരി	Suvarnagiri	ward	Q101582628
 സുവർണ്ണവല്ലി	Suvarnavally	ward	Q101582407
@@ -10208,25 +10203,25 @@
 സൂര്യഗ്രാമം	Sooryagramam	ward	Q101194654
 സൂര്യനെല്ലി	Surianelli	ward	Q101190570
 സൂർലു	Soorlu	ward	Q101206247
-സെനെഗൽ	Senegal	country	Q1041
+സെനെഗൽ	Senegal	country or state	Q1041
 സെന്റര്മുക്ക്	Centremukku	ward	Q101200647
 സെവൻമലൈ	Sevanmalay	ward	Q101190500
 സെൻട്രൽ	Central	ward	Q101188975
-സെർബിയ	Serbia	country	Q403
+സെർബിയ	Serbia	country or state	Q403
 സേതുകുളം	Sethukulam	ward	Q101194391
 സേനാപതി	Senapathy|Senapathy Gramapanchayat|Senapathy village	grama panchayat,post office,village,ward	Q101190623 Q101190907 Q13115176 Q48733898 Q71533539
 സേലം	Salem	india/gulf/world	Q43919
 സേവാമന്ദിരം	Sevamandiram	ward	Q101583146
 സൈദാർപള്ളി	Saidar Palli	ward	Q101582067
-സൈപ്രസ്	Cyprus	country	Q229
-സൊമാലിയ	Somalia	country	Q1045
+സൈപ്രസ്	Cyprus	country or state	Q229
+സൊമാലിയ	Somalia	country or state	Q1045
 സൊസൈറ്റി	Society	ward	Q101194997 Q101582600
 സൊസൈറ്റിക്കുടി	Socitykudi	ward	Q101207012
 സോങ്കാൽ	Sonkal	ward	Q101205807
-സോമാലിലാന്റ്	Somaliland	country	Q34754
+സോമാലിലാന്റ്	Somaliland	country or state	Q34754
 സ്നേഹഗിരി	Snehagiri	ward	Q101195081
 സ്നേഹപുരം	Snehapuram	ward	Q101194650
-സ്പെയിൻ	Spain	country	Q29
+സ്പെയിൻ	Spain	country or state	Q29
 സ്രാബ്യാബസാർ	Srambyabazar	ward	Q101197974
 സ്രാമ്പിക്കല്ല്	Srambikkallu	ward	Q101197498
 സ്രാമ്പിക്കൽ	Srambikkal	ward	Q101195153
@@ -10234,29 +10229,29 @@
 സ്റ്റേഡിയം	Stadium	ward	Q101145878
 സ്ലീവാപുരം	Sleevapuram	ward	Q101188697
 സ്ലീവാമല	Sleevamala	ward	Q101190721
-സ്ലൊവീന്യ	Slovenia	country	Q215
-സ്ലോവാക്യ	Slovakia	country	Q214
+സ്ലൊവീന്യ	Slovenia	country or state	Q215
+സ്ലോവാക്യ	Slovakia	country or state	Q214
 സ്വാഗതമാട്	Swagathamadu	ward	Q101199128
 സ്വാമികവല	Swamikavala	ward	Q101189933
 സ്വാമിക്കുന്ന്	Swamikkunnu	ward	Q101205072
 സ്വാമിയാറാളക്കുടി	Swamiyaralakkudi	ward	Q101190541
-സ്വിറ്റ്സർലാന്റ്	Switzerland	country	Q39
-സ്വീഡൻ	Sweden	country	Q34
+സ്വിറ്റ്സർലാന്റ്	Switzerland	country or state	Q39
+സ്വീഡൻ	Sweden	country or state	Q34
 സ്വർഗ്ഗ	Swarga	ward	Q101206017
 സ്വർഗ്ഗംമേട്	Swargammedu	ward	Q101190625
 സ്വർണവിലാസം	Swarnavilasam	ward	Q101191073
 സൗദി	saudi	common spelling	
-ഹംഗറി	Hungary	country	Q28
+ഹംഗറി	Hungary	country or state	Q28
 ഹദ്ദാദ്നഗർ	Haddad Nagar	ward	Q101206398
 ഹരിപുരം	Haripuram	post office,ward	Q101194714 Q101206452 Q71527502
 ഹരിപ്പാട്	Haripad|Haripad Nagarasabha	local body,railway station,settlement	Q16137901 Q20717437 Q500806
-ഹരിയാണ	Haryana	country	Q1174
+ഹരിയാണ	Haryana	country or state	Q1174
 ഹരിഹരപുരം	Hariharapuram	post office	Q71537176
 ഹാജിയാർപള്ളി	Hajiarpalli	post office	Q71528217
 ഹായിൽ	hail	common spelling	
 ഹിൽടോപ്	Hilltop	ward	Q101198422
 ഹിൽബസാർ	Hillbazar	ward	Q101201813
-ഹെയ്റ്റി	Haiti	country	Q790
+ഹെയ്റ്റി	Haiti	country or state	Q790
 ഹെലിബറിയ	Haileyburia	ward	Q101191342
 ഹെവൻവാലി	Heavenvally	ward	Q101191105
 ഹേമക്കടവ്	Hemakkadavu	ward	Q101191035
@@ -10267,7 +10262,7 @@
 ഹൊന്നമൂല	Honnamoola	ward	Q101582142
 ഹൊസബെട്ടു	Hosabettu	post office	Q71527514
 ഹോങ്കോങ്	Hong Kong	india/gulf/world	Q8646
-ഹോണ്ടുറാസ്	Honduras	country	Q783
+ഹോണ്ടുറാസ്	Honduras	country or state	Q783
 ഹോളിക്രോസ്	Holycross	ward	Q101580465
 ഹോസ്ദുർഗ്	Hosdurg	taluk	Q13115271
 ഹോസ്പിറ്റൽ	Hospital	ward	Q101143993 Q101192115 Q101195005 Q101581997

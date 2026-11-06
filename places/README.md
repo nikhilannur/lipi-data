@@ -2,7 +2,7 @@
 
 | File | What it is | Source and licence |
 |---|---|---|
-| `places_ml.tsv` | 10,272 Kerala, India and Gulf place names in Malayalam, with their English names, kind and Wikidata id | **Wikidata** (CC0 1.0) + Lipi's `common_spellings.tsv` |
+| `places_ml.tsv` | 10,267 Kerala, India and Gulf place names in Malayalam, with their English names, kind and Wikidata id | **Wikidata** (CC0 1.0) + Lipi's `common_spellings.tsv` |
 | `place_spellings_ml.txt` | English spelling → Malayalam place, as shipped in the app (`*` = hand-checked) | as above |
 | `common_spellings.tsv` | Spellings Malayalis use that Wikidata's label lacks (ബാംഗ്ലൂർ, തൃശൂർ) | Lipi's own |
 | `build_places.py` | Builds the lists (a copy of `tools/places/build_places.py` in the app repo) | — |

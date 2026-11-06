@@ -83,6 +83,8 @@ def clean_ml(label: str):
     # Common slips in Wikidata labels: ള typed twice for ള്ള, a vowel sign typed twice (ുു).
     s = s.replace("ളള", "ള്ള")
     s = re.sub(r"([ാ-ൌൗ])\1+", r"\1", s)
+    # Old style ന് + ക inside a word (നെയ്യാറ്റിന്കര) → ൻ + ക.
+    s = s.replace("ന്ക", "ൻക")
     return s if ML_WORD.match(s) and len(s) > 1 else None
 
 
@@ -130,7 +132,7 @@ def main(src: str) -> None:
             if kinds.get(qid):
                 add(r["ml"], [r["en"]] + r["aliases"].split("|"), sorted(kinds[qid])[0], qid)
     for name, kind in (("wikidata_districts.csv", "district"), ("wikidata_taluks.csv", "taluk"),
-                       ("wikidata_countries.csv", "country")):
+                       ("wikidata_countries.csv", "country or state")):
         for r in csv.DictReader(open(os.path.join(src, name), encoding="utf-8")):
             add(r["ml"], [r["en"]], kind, r["item"].rsplit("/", 1)[-1])
     seen = set()
